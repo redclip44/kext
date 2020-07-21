@@ -1,0 +1,4342 @@
+DSDT¤ ÓLENOVOTP-R08    INTL [€PRTD
+€
+[PRTDP80H [PRTDP80PD	P8XH
+P80B
+ŠP80B
+ P80D “h
+ p}{P80D ÿÿÿ i P80D “h
+p}{P80Dÿ ÿÿ yi
+  P80D “h
+p}{P80Dÿÿ ÿ yi
+  P80D “h
+p}{P80Dÿÿÿ  yi
+  P80DpP80DP80H	ADBG	¤
+ O\_PR_[ƒCPU0  [ƒCPU1  [ƒCPU2  [ƒCPU3  [ƒCPU4  [ƒCPU5  [ƒCPU6  [ƒCPU7  L\ GPNTF A{\._PR_CFGD   -‘{PDC0
+ ‘“h
+€“h
+‚{PDC0
+ “h
+†\._PR_CPU0h -‘{PDC1
+ ‘“h
+€“h
+‚{PDC1
+ “h
+†\._PR_CPU1h -‘{PDC2
+ ‘“h
+€“h
+‚{PDC2
+ “h
+†\._PR_CPU2h -‘{PDC3
+ ‘“h
+€“h
+‚{PDC3
+ “h
+†\._PR_CPU3h -‘{PDC4
+ ‘“h
+€“h
+‚{PDC4
+ “h
+†\._PR_CPU4h -‘{PDC5
+ ‘“h
+€“h
+‚{PDC5
+ “h
+†\._PR_CPU5h -‘{PDC6
+ ‘“h
+€“h
+‚{PDC6
+ “h
+†\._PR_CPU6h -‘{PDC7
+ ‘“h
+€“h
+‚{PDC7
+ “h
+†\._PR_CPU7h¡ ‘“h
+€‘“h
+“h
+‚†\._PR_CPU0hA)\._PR_CPU0CPC1I
+
+
+‚  q      y 
+
+ 
+ 
+‚  4      y 
+‚ t      y 
+‚  t      y 
+‚ t      y 
+‚             y 
+‚             y 
+‚             y 
+‚ @ ç       y 
+‚ @ è       y 
+‚ w      y 
+‚  p      y CPC2@
+
+
+‚  q      y 
+‚ Î       y 
+‚ q      y 
+‚ q      y 
+‚ q      y 
+‚ t      y 
+‚  t      y 
+‚ t      y 
+‚             y 
+‚             y 
+‚             y 
+‚ @ ç       y 
+‚ @ è       y 
+‚ w      y 
+‚  p      y 
+
+‚ 
+ t      y 
+‚ t      y 
+ [€MNVS Ðü× [HIMNVS €€GAPA GAPL DCKI DCKS VCDLVCDCVCDTVCDD VCSSVCDBVCINVVPOBRTNBRLVCDFLCDAHPMODPDIRPDMA LFDC C2NAC3NAC4NAC6NAC7NA    NHPSNPME UOPTBTID DPP0DPP1DPP2DPP3DPP4DPP5  TCRTTPSVTTC1TTC2TTSPSRAHSRHESRE1SRE2SRE3SRE4SRE5SRE6SRU1SRU2SRU3SRU7SRU4SRU5SRU8SRPBSRLPSRSASRSMCWACCWASCWUECWUS CWAPCWATDBGC FS1LFS1MFS1HFS2LFS2MFS2HFS3LFS3MFS3HTATC TATLTATWTNFTTNTTTDFATDTATDFDTDTDTCFATCTATCFDTCTDTSFTTSTTTIT0TCR0TPS0TIT1TCR1TPS1TIT2TCR2TPS2TIF0TIF1TIF2 8BTHI HDIRHDEHHDSPHDPPHDUBHDMCNFCF TPMEBIDEIDET   DTS0 DT00DT01DT02DT03 LIDBC4WRC4ACODDXCMPRILNFPLUX  @WGON   IDMM          SWGPIPMSIPMBHIPMRIPMOIPMAVIGDVDSCVMSH VDSP  ASFTPL1LPL1MCHKC CHKE ATRB  PPCRTPCR  HCTPRPPCATPCA BFWBHOSPXOSC4CPPX SPENSCRM ETAUIHBCAPMDAPMF FTPSHISTLPSTLWST   @HPET PKLIVLCXVNITVBD0VBDT@VBPLVBPHVBMLVBMHVEDI@@PDCIISCG ISSPISWKISFS SHA1@
+ LWCPLWENIOCPIOENIOST USBR   BT2T TPPPTPPCCTPCFNWK XHCCFCAPVSTDVCQLVTIOVMYHVSTPVCQHVDCCVSFNVDMC CICFCICMMCAPPT1D PT2D PT0D [H
+MNVS €€WITMWSELWLS0WLS1WLS2WLS3WLS4WLS5WLS6WLS7WLS8WLS9WLSAWLSBWLSCWLSDWENCWKBDWPTYWPASH@WPNWH@WSPMWSPSWSMNWSMXWSENWSKBWASBWASIWASDWASS [MNVS € DBGB@@[€GNVS  °û× [,GNVSOSYSSMIFPRM0PRM1SCIFPRM2PRM3LCKFPRM4PRM5P80D PWRSDBGSTHOFACT1ACTTPSVTTC1VTC2VTSPVCRTTDTSEDTS1DTS2DTSF        REVNAPICTCNTPCP0PCP1PPCMPPMF C67LNATPCMAPCMBPLPTPFDCPCMCPCIRPSMSCW381SMC1EMAEEMAPEMALMEFEDSTSMORDTCGPPPRP PPRQLPPRIDEMBID_PLIDBTYPOSCCNEXPSBV1SBV2ECONDSENGPICCTYPL01CVFN0VFN1VFN2VFN3VFN4VFN5VFN6VFN7VFN8VFN9ATMCPTMCPNHM TBAL TBAH RTIPTSODPFLVBREVBBIDPDTSPKGAPAMTAC0FAC1FDTS3DTS4LTR1LTR2LTR3LTR4LTR5LTR6LTR7LTR8LTR9LTRALTRBLTRCLTRDLTRELTRFLTRGLTRHLTRILTRJLTRKOBF1OBF2OBF3OBF4OBF5OBF6OBF7OBF8OBF9OBFAOBFBOBFCOBFDOBFEOBFFOBFGOBFHOBFIOBFJOBFKXTUB XTUS XMPB DDRFRTD3PEP0PEP3DPTFSADESACRSAHTCTDPLPMPLPMVECEUTGFGMEMDATRAPTRAMEMCMEMHFND1FND2AMBDAMATAMPTAMCTAMHTSKDESKATSKPTSKCTSKHTEFDEEFATEFPTEFCTEFHTVRDEVRATVRPTVRCTVRHTDPAPDPPPDPCPDCMPTRTVLPOELPOPLPOSLPOWLPERPPSZ DISEBGMA@BGMSBGIAIRMCNFCECHENS0IDCTDBDKSMSIO1SIO2SPBASEC0 SEC1 SEC2 SEC3 SEC4 SEC5 SEC6 SEC7 SEC8  @iWIFDWFATWFPTWFCTWFHTPWREPWRP @XHPRRIC0DVS0DVS1DVS2DVS3GBSXIUBEIUCEIUDEECNOAUDDIC0DIC1DIC1SVRRDPSCPI20DI21DRCG0ECDBP2MESSH0SSL0SSD0FMH0FML0FMD0FPH0FPL0FPD0SSH1SSL1SSD1FMH1FML1FMD1FPH1FPL1FPD1M0C0M1C0M2C0M0C1M1C1M2C1M0C2M1C2M0C3M1C3M0C4M1C4M0C5M1C5TBSFGIRQ DMTPDMTDDMSHLANPSHSBPLCSPLVLGN1EG1ATG1PTG1CTG1HTGN2EG2ATG2PTG2CTG2HTWWSDCVSDSSDDINLDIFATIFPTIFCTIFHTSDWEUSBHBCV4WTV0WTV1APFUSOHPGP5FNOHPTBSEWKFNPEPC VRSDPB1EGNIDWANDWWATWWPTWWCTWWHT HMPL0CHGESAC3MEM3AMC3SKC3EFC3VRC3WFC3G1C3G2C3IFC3WWC3WGC3SPSTPERE GN3EG3ATG3PTG3CTG3HTGN4EG4ATG4PTG4CTG4HTGN5EG5ATG5PTG5CTG5HTGN6EG6ATG6PTG6CTG6HTECLPG3C3G4C3G5C3G6C3TSP1TSP2TSP3TSP4TSP5TSP6TSP7TSP8SSP1SSP2SSP3SSP4SSP5SSP6SSP7SSP8MEMS HS1DES1ATS1PTS1CTS1HTS2DES2ATS2PTS2CTS2HTS3DES3ATS3PTS3CTS3HTS4DES4ATS4PTS4CTS4HTS5DES5ATS5PTS5CTS5HTS6DES6ATS6PTS6CTS6HTS7DES7ATS7PTS7CTS7HTS1S3S2S3S3S3S4S3S5S3S6S3S7S3PSMEPDT1PLM1PTW1PDT2PLM2PTW2DDT1DDP1DLI1DPL1DTW1DMI1DMA1DMT1DDT2DDP2DLI2DPL2DTW2DMI2DMA2DMT2WIFEDOM1LIM1TIM1DOM2LIM2TIM2DOM3LIM3TIM3TRD0TRL0TRD1TRL1WDM1CID1WDM2CID2 APPEMPL1MPL2SDS0SDS1SDS2SDS3SDS4SDS5SDS6SDS7SDS8SDS9SDSATPLBTPLHWTVXWITXGPTDGDBTUTKXSPTDGEXNTBTSAICSTARSFPATFPENFPGN FPLVCPADCPABTNATCPGN CF2TATLB SDM0SDM1SDM2SDM3SDM4SDM5SDM6SDM7SDM8SDM9SDMAUSTPSSHISSLISSDIFMHIFMLIFMDIFPHIFPLIFPDIM0CIM1CIM0CSM1CSM0CUM1CUCAMTDS4DIVDFEIDFGFPS GFPI GNSMGNSCGGNR GBTW GBTK GBTI GPDI GPLI CL00CL01CL02CL03L0ENL1ENL2ENL3ENCDIVC0TPC0CVC0GPC0IBC0IAC0P0C0P1C0P2C0P3C0G0C0G1C0G2C0G3C0F0C0F1C0F2C0F3C0A0C0A1C0A2C0A3C0I0C0I1C0I2C0I3C0PLC1TPC1CVC1GPC1IBC1IAC1P0C1P1C1P2C1P3C1G0C1G1C1G2C1G3C1F0C1F1C1F2C1F3C1A0C1A1C1A2C1A3C1I0C1I1C1I2C1I3C1PLC2TPC2CVC2GPC2IBC2IAC2P0C2P1C2P2C2P3C2G0C2G1C2G2C2G3C2F0C2F1C2F2C2F3C2A0C2A1C2A2C2A3C2I0C2I1C2I2C2I3C2PLC3TPC3CVC3GPC3IBC3IAC3P0C3P1C3P2C3P3C3G0C3G1C3G2C3G3C3F0C3F1C3F2C3F3C3A0C3A1C3A2C3A3C3I0C3I1C3I2C3I3C3PLL0SML0H0L0H1L0H2L0H3L0H4L0H5L0H6L0H7L0H8L0PLL0M0L0M1L0M2L0M3L0M4L0M5L0M6L0M7L0M8L0M9L0MAL0MBL0MCL0MDL0MEL0MFL0DIL0BSL0A0L0A1L0A2L0A3L0A4L0A5L0A6L0A7L0A8L0A9L0AAL0ABL0D0L0D1L0D2L0D3L0D4L0D5L0D6L0D7L0D8L0D9L0DAL0DBL0DVL0CVL0LUL0NLL0EEL0VCL0FSL0DGL0C0L0C1L0C2L0C3L0CK L0CLL1SML1H0L1H1L1H2L1H3L1H4L1H5L1H6L1H7L1H8L1PLL1M0L1M1L1M2L1M3L1M4L1M5L1M6L1M7L1M8L1M9L1MAL1MBL1MCL1MDL1MEL1MFL1DIL1BSL1A0L1A1L1A2L1A3L1A4L1A5L1A6L1A7L1A8L1A9L1AAL1ABL1D0L1D1L1D2L1D3L1D4L1D5L1D6L1D7L1D8L1D9L1DAL1DBL1DVL1CVL1LUL1NLL1EEL1VCL1FSL1DGL1C0L1C1L1C2L1C3L1CK L1CLL2SML2H0L2H1L2H2L2H3L2H4L2H5L2H6L2H7L2H8L2PLL2M0L2M1L2M2L2M3L2M4L2M5L2M6L2M7L2M8L2M9L2MAL2MBL2MCL2MDL2MEL2MFL2DIL2BSL2A0L2A1L2A2L2A3L2A4L2A5L2A6L2A7L2A8L2A9L2AAL2ABL2D0L2D1L2D2L2D3L2D4L2D5L2D6L2D7L2D8L2D9L2DAL2DBL2DVL2CVL2LUL2NLL2EEL2VCL2FSL2DGL2C0L2C1L2C2L2C3L2CK L2CLL3SML3H0L3H1L3H2L3H3L3H4L3H5L3H6L3H7L3H8L3PLL3M0L3M1L3M2L3M3L3M4L3M5L3M6L3M7L3M8L3M9L3MAL3MBL3MCL3MDL3MEL3MFL3DIL3BSL3A0L3A1L3A2L3A3L3A4L3A5L3A6L3A7L3A8L3A9L3AAL3ABL3D0L3D1L3D2L3D3L3D4L3D5L3D6L3D7L3D8L3D9L3DAL3DBL3DVL3CVL3LUL3NLL3EEL3VCL3FSL3DGL3C0L3C1L3C2L3C3L3CK L3CLECR1 (I2SCODV0ODV1ODV2ODV3ODV4ODV5UBCB EMODWIFC 8TPLSTPDBTPDHTPDSAG1L@AG1H@AG2L@AG2H@AG3L@AG3H@HEFEXDCESTXESTX0STX1STX2STX3STX4STX5STX6STX7STX8STX9…ô\_SB_O1_INI  H[\_OSI` 4\_OSI
+Windows 2001 p
+\WNTFp
+\WXPFp
+ \WSPVpÑOSYS (\_OSI
+Windows 2001 SP1 p
+\WSPVpÑOSYS (\_OSI
+Windows 2001 SP2 p
+\WSPVpÒOSYS $\_OSI
+Windows 2006 p
+\WVISpÖOSYS $\_OSI
+Windows 2009 p
+\WIN7pÙOSYS $\_OSI
+Windows 2012 p
+\WIN8pÜOSYS $\_OSI
+Windows 2013 p
+\WIN8pÝOSYS $\_OSI
+Windows 2015 p
+\WIN8pßOSYS \_OSI
+Linux p
+\LNUXpèOSYS \_OSI
+FreeBSD p
+\LNUXpèOSYS¡- +“\SCMP\_OS_
+Microsoft Windows NT  p
+\WNTF ’•\_REV
+p
+\H8DRp
+\OSIFp\/_SB_PCI0LPC_EC__AC___PSR\PWRS &\LNUX\/_SB_PCI0LPC_EC__SAUM
+\UCMS
+p\SRAH\/_SB_PCI0RID_ VIGDp\SRHE\/_SB_PCI0GFX0RID_¡p\SRHE\/_SB_PCI0PEG0RID_p\SRE1\/_SB_PCI0EXP1RID_p\SRE2\/_SB_PCI0EXP2RID_p\SRE3\/_SB_PCI0EXP3RID_p\SRE4\/_SB_PCI0RP09RID_p\SRLP\/_SB_PCI0LPC_RID_p\SRSA\/_SB_PCI0SAT1RID_p\SRSM\/_SB_PCI0SMBURID_OSCI
+ OSCO
+ OSCP
+ E_OSCŠk
+ STS0Šk
+CAP0 L	“h
+n°'JùD`<»Â.{H H“ipCAP0OSCP /{CAP0
+  %’VMSH “RTD3
+ {CAP0
+ûCAP0}STS0
+STS0 {CAP0
+  p
+\CPPX¡{CAP0
+ŸCAP0}STS0
+STS0¡{STS0 ÿÿÿSTS0}STS0
+
+STS0¡{STS0 ÿÿÿSTS0}STS0
+STS0 #\WIN8}CAP0
+CAP0pSTS0OSCIpCAP0OSCO¤kB\_SB_[€ITSS  1Äý[:ITSSPARCPBRCPCRCPDRCPERCPFRCPGRCPHRC @ü  SCGE[‚DLNKA_HIDAÐ_UID
+_STA  ’VPIR\._SB_PARC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PARC
+€\._SB_PARCBUFA	
+#  y ‹BUFA
+IRA11_CRS {\._SB_PARC
+` VPIR`y
+`IRA1¡p
+ IRA1¤BUFA3_SRS‹h
+IRA2‚IRA2`{\._SB_PARC
+pa}av`apa\._SB_PARC[‚DLNKB_HIDAÐ_UID
+_STA  ’VPIR\._SB_PBRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PBRC
+€\._SB_PBRCBUFB	
+#  y ‹BUFB
+IRB11_CRS {\._SB_PBRC
+` VPIR`y
+`IRB1¡p
+ IRB1¤BUFB3_SRS‹h
+IRB2‚IRB2`{\._SB_PBRC
+pa}av`apa\._SB_PBRC[‚DLNKC_HIDAÐ_UID
+_STA  ’VPIR\._SB_PCRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PCRC
+€\._SB_PCRCBUFC	
+#  y ‹BUFC
+IRC11_CRS {\._SB_PCRC
+` VPIR`y
+`IRC1¡p
+ IRC1¤BUFC3_SRS‹h
+IRC2‚IRC2`{\._SB_PCRC
+pa}av`apa\._SB_PCRC[‚DLNKD_HIDAÐ_UID
+_STA  ’VPIR\._SB_PDRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PDRC
+€\._SB_PDRCBUFD	
+#  y ‹BUFD
+IRD11_CRS {\._SB_PDRC
+` VPIR`y
+`IRD1¡p
+ IRD1¤BUFD3_SRS‹h
+IRD2‚IRD2`{\._SB_PDRC
+pa}av`apa\._SB_PDRC[‚DLNKE_HIDAÐ_UID
+_STA  ’VPIR\._SB_PERC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PERC
+€\._SB_PERCBUFE	
+#  y ‹BUFE
+IRE11_CRS {\._SB_PERC
+` VPIR`y
+`IRE1¡p
+ IRE1¤BUFE3_SRS‹h
+IRE2‚IRE2`{\._SB_PERC
+pa}av`apa\._SB_PERC[‚DLNKF_HIDAÐ_UID
+_STA  ’VPIR\._SB_PFRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PFRC
+€\._SB_PFRCBUFF	
+#  y ‹BUFF
+IRF11_CRS {\._SB_PFRC
+` VPIR`y
+`IRF1¡p
+ IRF1¤BUFF3_SRS‹h
+IRF2‚IRF2`{\._SB_PFRC
+pa}av`apa\._SB_PFRC[‚DLNKG_HIDAÐ_UID
+_STA  ’VPIR\._SB_PGRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PGRC
+€\._SB_PGRCBUFG	
+#  y ‹BUFG
+IRG11_CRS {\._SB_PGRC
+` VPIR`y
+`IRG1¡p
+ IRG1¤BUFG3_SRS‹h
+IRG2‚IRG2`{\._SB_PGRC
+pa}av`apa\._SB_PGRC[‚DLNKH_HIDAÐ_UID
+_STA  ’VPIR\._SB_PHRC¤
+	¡¤
+_PRS	
+#øy _DIS }\._SB_PHRC
+€\._SB_PHRCBUFH	
+#  y ‹BUFH
+IRH11_CRS {\._SB_PHRC
+` VPIR`y
+`IRH1¡p
+ IRH1¤BUFH3_SRS‹h
+IRH2‚IRH2`{\._SB_PHRC
+pa}av`apa\._SB_PHRC9VPIRp
+` 
+{h
+€ p
+ `¡!{h
+a 	•a
+p
+ `¡ ‘“a
+“a
+
+p
+ `¤`[‚KCMEM__HIDAÐMEMSB
+Î†	       
+ †	         †	   @     †	   €     †	   À     †	    
+     †	   @
+     †	   €
+     †	   À
+     †	         †	   @     †	   €     †	   À     †	        †	      î†	    Àþ   †	   ÀÔþ @+y ŠMEMS
+MC0LŠMEMS
+ MC4LŠMEMS
+,MC8LŠMEMS
+8MCCLŠMEMS
+DMD0LŠMEMS
+PMD4LŠMEMS
+\MD8LŠMEMS
+hMDCLŠMEMS
+tME0LŠMEMS
+€ME4LŠMEMS
+ŒME8LŠMEMS
+˜MECLMEMS
+xMC0WMEMS
+ØMC4WMEMS8MC8WMEMS˜MCCWMEMSøMD0WMEMSXMD4WMEMS¸MD8WMEMSMDCWMEMSxME0WMEMSØME4WMEMS8ME8WMEMS˜MECWŠMEMS
+¬MEB1ŠMEMS
+°MEL1J"_CRS {\/_SB_PCI0PAM1
+` `p @MC0L 
+{`
+ p
+MC0W{\/_SB_PCI0PAM1
+0` `p @MC4L 
+{`
+  p
+MC4W{\/_SB_PCI0PAM2
+` `p @MC8L 
+{`
+ p
+MC8W{\/_SB_PCI0PAM2
+0` `p @MCCL 
+{`
+  p
+MCCW{\/_SB_PCI0PAM3
+` `p @MD0L 
+{`
+ p
+MD0W{\/_SB_PCI0PAM3
+0` `p @MD4L 
+{`
+  p
+MD4W{\/_SB_PCI0PAM4
+` `p @MD8L 
+{`
+ p
+MD8W{\/_SB_PCI0PAM4
+0` `p @MDCL 
+{`
+  p
+MDCW{\/_SB_PCI0PAM5
+` `p @ME0L 
+{`
+ p
+ME0W{\/_SB_PCI0PAM5
+0` `p @ME4L 
+{`
+  p
+ME4W{\/_SB_PCI0PAM6
+` `p @ME8L 
+{`
+ p
+ME8W{\/_SB_PCI0PAM6
+0` `p @MECL 
+{`
+  p
+MECWt\MEMXMEB1MEL1¤MEMS[‚HLID__HIDAÐ
+F_LID  I“\ILNF
+ “\PLUX
+  \H8DR¤\/_SB_PCI0LPC_EC__HPLD¡ {\RBEC
+F
+ ¤
+¡¤
+ ¡¤
+_PRW  \LWCP¤
+C
+¡	¤
+C
+@_PSW ?\H8DR hp
+\/_SB_PCI0LPC_EC__HWLO¡p
+ \/_SB_PCI0LPC_EC__HWLO¡ 
+h\MBEC
+2
+ÿ
+¡\MBEC
+2
+û
+  \LWCP 
+hp
+\LWEN¡	p
+ \LWEN[‚DSLPB_HIDAÐ_PRW ¤
+C
+D_PSW ?\H8DR hp
+\/_SB_PCI0LPC_EC__HWFN¡p
+ \/_SB_PCI0LPC_EC__HWFN¡ 
+h\MBEC
+2
+ÿ
+¡\MBEC
+2
+ï
+ [‚‹EPCI0_BBN
+ _ADR
+ RID_
+ _S3D
+LRRTE0#ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+ \._SB_LNKA
+ ÿÿ 
+\._SB_LNKB
+ ÿÿ 
+\._SB_LNKC
+ ÿÿ 
+\._SB_LNKD
+ ÿÿ 
+\._SB_LNKA
+ ÿÿ 
+\._SB_LNKC
+ ARRTO$*
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+ 
+ 
+ 
+ÿÿ 
+
+ 
+!
+ÿÿ 
+
+ 
+"
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+ 
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+
+ÿÿ 
+
+ 
+7_PRT  \GPICADBG
+APIC mode ¤ARRT¡ADBG
+8259 mode ¤LRRT_HIDAÐ
+_CIDAÐ
+[€MHCS
+@
+À[6MHCS @ PAM0PAM1PAM2PAM3PAM4PAM5PAM6 H TLUD_CRSK¦ˆ
+      ÿ    Gøøˆ
+     ÷  øˆ
+    
+ÿÿ   ó‡        
+ ÿÿ        ‡         ÿ?      @  ‡       @ ÿ      @  ‡       € ÿ¿      @  ‡       À ÿÿ      @  ‡        
+ ÿ?
+      @  ‡       @
+ ÿ
+      @  ‡       €
+ ÿ¿
+      @  ‡       À
+ ÿÿ
+      @  ‡         ÿ?      @  ‡       @ ÿ      @  ‡       € ÿ¿      @  ‡       À ÿÿ      @  ‡         ÿÿ¯þ       þy Š_CRS
+hC0LNŠ_CRS
+‚C4LNŠ_CRS
+œC8LNŠ_CRS
+¶CCLNŠ_CRS
+ÐD0LNŠ_CRS
+êD4LNŠ_CRSD8LNŠ_CRSDCLNŠ_CRS8E0LNŠ_CRSRE4LNŠ_CRSlE8LNŠ_CRS†ECLNŠ_CRS”XXMNŠ_CRS˜XXMXŠ_CRS XXLN‹_CRS
+
+B0MX‹_CRS
+B0LNM_INIp
+?B0MXpr
+?
+ B0LN ’\OSIF\._SB__INIyTLUD
+`p`\MEMXp`XXMNrtXXMXXXMN 
+XXLN {PAM1
+ p
+ C0LN {PAM1
+0 p
+ C4LN {PAM2
+ p
+ C8LN {PAM2
+0 p
+ CCLN {PAM3
+ p
+ D0LN {PAM3
+0 p
+ D4LN {PAM4
+ p
+ D8LN {PAM4
+0 p
+ DCLN {PAM5
+ p
+ E0LN {PAM5
+0 p
+ E4LN {PAM6
+ p
+ E8LN {PAM6
+0 p
+ ECLNSUPP
+ CTRL
+ E_OSCŠk
+ CDW1Šk
+CDW2Šk
+CDW3 F“h
+[MÛ3÷@–WtAÀ=×fpCDW2SUPPpCDW3CTRL{CTRL
+
+CTRL N’{CDW1
+  {CTRL
+ p
+\NHPS @{CTRL
+  A\/_SB_PCI0EXP1PMEXp
+ \/_SB_PCI0EXP1PMEXp
+\/_SB_PCI0EXP1PMSX A\/_SB_PCI0EXP2PMEXp
+ \/_SB_PCI0EXP2PMEXp
+\/_SB_PCI0EXP2PMSX A\/_SB_PCI0EXP3PMEXp
+ \/_SB_PCI0EXP3PMEXp
+\/_SB_PCI0EXP3PMSX A\/_SB_PCI0RP09PMEXp
+ \/_SB_PCI0RP09PMEXp
+\/_SB_PCI0RP09PMSXp
+ \/_SB_PCI0LPC_EXPEp
+\NPME ’“i
+}CDW1
+
+CDW1 ’“CDW3CTRL}CDW1
+CDW1pCTRLCDW3¡}CDW1
+CDW1¤k[€HBUS
+  [FHBUS @ EPEN EPBR  MHEN MHBR  GCLK OPXENPXSZ PXBR  DIEN DIBR   MEBREP_B
+ MH_B
+ PC_B
+ PC_L
+ DM_B
+ *GEPB “EP_B
+ y\/_SB_PCI0EPBR
+EP_B¤EP_B*GMHB “MH_B
+ y\/_SB_PCI0MHBR
+MH_B¤MH_B*GPCB “PC_B
+ y\/_SB_PCI0PXBR
+PC_B¤PC_B-GPCL !“PC_L
+ z   \/_SB_PCI0PXSZPC_L¤PC_L*GDMB “DM_B
+ y\/_SB_PCI0DIBR
+DM_B¤DM_BE\._SB_PCI0WHIT ¤
+?* 
+?* 
+ 
+
+SELF ¤
+LENOVO 
+TP-R08   [‚ˆ
+LPC__ADR   _S3D
+RID_
+ _DSM PCICh¤PCIDhijk¤
+ [‚BSIO__HIDAÐ_UID
+ J_CRS BUF_N
+úG  G  G$ $ G( ( G, , G0 0 G4 4 G8 8 G< < G¤ ¤ G¨ ¨ G¬ ¬ G° ° G¸ ¸ G¼ ¼ GP P Gr r G   G  €†	    ø   †	   Ñþ €  †	  €Ñþ   †	  Ñþ   †	   °þ   †	   Òþ   †	    Ùþ @  †	         y ŠBUF_
+ðSXB_p\SXRBSXB_ŠBUF_
+ôSXL_p\SXRSSXL_¤BUF_[€LPCS
+  [FLPCS  @0PIRAPIRBPIRCPIRDSERQ PIREPIRFPIRGPIRH @
+XU1A XU2A XPA_ XFA_ XU1EXU2EXPE_XFE_ XG1E XG1A XG2E XG2A @ CLKR EXPE  @  XUSB OGR00 
+GR06[€GDIO À¯ý
+[(GDIO DOI0  DOI1  DOI2  DOI3[€LPIO  [LPIO @À XHPD L GLIS @ª  [€RFIO 8¯ý
+[
+RFIORFOF [€BTIO h¯ý
+[
+BTIOBTON NFCD
+[€PMIO  [)PMIO  @ XHPE I SWGE N 	 GSCIS [‚3PIC__HIDAÐ_CRS 
+G    G    GÐÐ" y [‚%TIMR_HIDAÐ _CRS
+
+G@ @ " y [‚HHPET_HIDAÐ_STA  \WNTF’\WXPF¤
+ ¡¤
+¤
+ BUF0
+†	    Ðþ   y  _CRSŠBUF0
+HPT0p\HPETHPT0¤BUF0[‚"SPKR_HIDAÐ _CRS
+
+Ga a y [‚%RTC__HIDAÐ _CRS
+
+Gp p " y [‚HKBD__HID  \WIN8¤0® q¤AÐ_CIDAÐ_CRS
+G` ` Gd d " y [‚'MOU__HID0® _CIDAÐ_CRS
+" y [€IMGAà
+[!IMGA   WAKR 8GAIX GADT [†0GAIXGADT @0EPWG CSONDSCIDSCSDLAN J0GAID[‚CCWDT_HID%Ô?
+_CIDAÐBUF0
+
+GTTy 	_STA¤
+_CRS¤BUF0[‚Œ·EC___HIDAÐ	_UID
+ _GPE
+ _REG “h
+pi\H8DR[€ECOR
+  [M.ECORHDBM HKLKHFNE  HLDM BBLSBTCM   HBPRBTPC HDUE SNLK  HAUM 	HSPA HSUNHSRP  FNKS HLCL CALM HFNS  NULS HAM0HAM1HAM2HAM3HAM4HAM5HAM6HAM7HAM8HAM9HAMAHAMBHAMCHAMDHAMEHAMF HANT  HANA   SKEM  HATRHT0HHT0LHT1HHT1LHFSP HMUT  HUWB VPONVRSTHWPMHWLBHWLOHWDKHWFNHWBTHWRIHWBUHWLU  PIBS HPLO HWACHB0SHB0AHB1SHB1AHCMU OVRQDCBDDCWLDCWWHB1I KBLTBTPWFNKCHUBSBDPWBDDTHUBB @ BTWKHPLD HPACBTST HPBU HBID HBCSHPNF GSTS HLBUDOCDHCBL SLUL HTMHHTMLHWAKHMPR HMDN @TMP0CAMW 0 HIID HFNIHSPD TSL0TSR0TSL1TSR1TSL2TSR2TSL3TSR3 HDAAHDABHDACRCBDRCWLRCWW MHDEN HDEP HDEMHDES @ATMXHWAT PWMHPWML H HDDD<_INI  
+\H8DRp
+ HSPA¡\MBEC
+
+þ
+ \/_SB_PCI0LPC_EC__HKEYWGIN_CRS
+Gb b Gf f y !LED_}hi` \H8DRp`HLCL¡	\WBEC
+`BAON
+ WBON
+ FBEEP “h
+p
+ WBONpWBONb OBAON $“h
+ p
+ BAON 
+WBONp
+`p
+a¡	p
+ `p
+ a¡#p
+ÿ`p
+ÿa “h
+p
+ WBON “h
+p
+WBON¡Gph`p
+ÿa “h
+ph`p
+ap
+BAON “h
+p
+ `p
+ ap
+ WBON “h
+p
+`p
+ap
+WBON 2“h
+p
+ WBON %bp
+` ‘“\SPS_
+“\SPS_
+p
+ bp
+ÿ`p
+ÿa “h
+ bp
+ bp
+ÿ`p
+ÿa ;\H8DR b’WBONp
+ HSRPp
+ HSUN["
+d ’“a
+ÿpaHSRP ’“`
+ÿp`HSUN¡> b’WBON\WBEC
+
+ \WBEC
+
+ ["
+d ’“a
+ÿ\WBEC
+a ’“`
+ÿ\WBEC
+` “h
+ 
+“h
+["ôFEVNT !\H8DR 
+h}HAM5
+HAM5¡{HAM5
+ûHAM5¡ 
+h\MBEC
+
+ÿ
+¡\MBEC
+
+û
+ USPS
+ [„M	PUBS  +_STA  \H8DRpHUBS`¡{\RBEC
+;
+` `¤
+¡¤
+ 3_ON_ p
+d`¢
+USPS`["
+v` 
+\H8DRp
+HUBS¡\MBEC
+;
+ÿ
+3_OFF p
+USPS 
+\H8DRp
+ HUBS¡\MBEC
+;
+ï
+ ["
+p
+ USPS+CHKS pè`¢HMPR["
+v` ’`¤€€ HMDN¤ ¤€KLPMD p
+ `p
+ ap
+ b @\H8DR HHPAC HPLOp\LPST`¡D A•HWAT
+Z HB0A ‘{HB0S
+ •{HB0S
+ 
+p
+a¡p
+a HB1A ‘{HB1S
+ •{HB1S
+ 
+p
+b¡p
+b abp\LPST`¡D	 A	{\RBEC
+F
+  {\RBEC
+4
+€ p\LPST`¡O L•\RBEC
+É
+Zp\RBEC
+8c {c
+€  ‘{c
+ •{c
+ 
+p
+a¡p
+bp\RBEC
+9c {c
+€  ‘{c
+ •{c
+ 
+p
+a¡p
+b abp\LPST`¤`FCLPM  >{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€¡pLPMD` 	`\STEP
+¡\STEP
+[MCPU K_Q10 p
+P80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+\/_SB_PCI0LPC_EC__HKEYMHKQ_Q11 p
+P80H£K_Q12 p
+P80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+\/_SB_PCI0LPC_EC__HKEYMHKQH_Q13 p
+P80H :\/_SB_PCI0LPC_EC__HKEYDHKC\/_SB_PCI0LPC_EC__HKEYMHKQ¡†\._SB_SLPB
+€K_Q64 p
+dP80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+\/_SB_PCI0LPC_EC__HKEYMHKQK_Q65 p
+eP80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+ \/_SB_PCI0LPC_EC__HKEYMHKQK_Q16 p
+P80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+@\/_SB_PCI0LPC_EC__HKEYMHKQK_Q17 p
+P80H <\/_SB_PCI0LPC_EC__HKEYMHKK
+€\/_SB_PCI0LPC_EC__HKEYMHKQM_Q18 p
+P80H =\/_SB_PCI0LPC_EC__HKEYMHKK \/_SB_PCI0LPC_EC__HKEYMHKQ	£L_Q1A p
+P80H =\/_SB_PCI0LPC_EC__HKEYMHKK \/_SB_PCI0LPC_EC__HKEYMHKQ+_Q1B p
+P80H\/_SB_PCI0LPC_EC__HKEYMHKQL_Q62 p
+bP80H =\/_SB_PCI0LPC_EC__HKEYMHKK \/_SB_PCI0LPC_EC__HKEYMHKQ
+L_Q60 p
+`P80H =\/_SB_PCI0LPC_EC__HKEYMHKK  \/_SB_PCI0LPC_EC__HKEYMHKQL_Q61 p
+aP80H =\/_SB_PCI0LPC_EC__HKEYMHKK @\/_SB_PCI0LPC_EC__HKEYMHKQA_Q1F p
+P80H K\/_SB_PCI0LPC_EC__HKEYMHKK    ({PKLI  \/_SB_PCI0LPC_EC__HKEYMHKQ\UCMS
+N_Q1C p
+P80H ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQN_Q1D p
+P80H ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQN_Q66 p
+fP80H ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQN_Q67 p
+gP80H ?\/_SB_PCI0LPC_EC__HKEYMHKK    \/_SB_PCI0LPC_EC__HKEYMHKQN_Q68 p
+hP80H ?\/_SB_PCI0LPC_EC__HKEYMHKK   @\/_SB_PCI0LPC_EC__HKEYMHKQN_Q69 p
+iP80H ?\/_SB_PCI0LPC_EC__HKEYMHKK   €\/_SB_PCI0LPC_EC__HKEYMHKQ K
+_Q26 p
+&P80H (VIGD \WVIS\VBTD\/_SB_PCI0LPC_EC__BRNS¡\UCMS
+["ô†AC__
+€†\._TZ_THM0
+€ \WXPF[#MCPUÿÿp
+PWRS #{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€ 
+\WXPF["
+d 
+\OSC4\PNTF
+ \WXPF['MCPU\/_SB_PCI0LPC_EC__HKEYMHKQ@`ATMCK
+_Q27 p
+'P80H (VIGD \WVIS\VBTD\/_SB_PCI0LPC_EC__BRNS¡\UCMS
+["ô†AC__
+€†\._TZ_THM0
+€ \WXPF[#MCPUÿÿp
+ PWRS #{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€ 
+\WXPF["
+d 
+\OSC4\PNTF
+ \WXPF['MCPU\/_SB_PCI0LPC_EC__HKEYMHKQ@`ATMC@_Q2A p
+*P80HADBG
+LIDO \VCMS
+\/_SB_LID__LID A	“\ILNF
+  6\IOST /’\ISOC
+ p
+ \IOST\/_SB_PCI0LPC_EC__HKEYMHKQÐ`\/_SB_PCI0LPC_EC__HKEYMHKQP 1“\PLUX
+  VIGD\/_SB_PCI0GFX0VLOC
+†\._SB_LID_
+€N_Q2B p
++P80HADBG
+LIDC \UCMS
+
+\VCMS
+\/_SB_LID__LID H	“\ILNF
+  =\IOEN’\IOST /’\ISOC
+p
+\IOST\/_SB_PCI0LPC_EC__HKEYMHKQÐ`\/_SB_PCI0LPC_EC__HKEYMHKQP 1“\PLUX
+  VIGD\/_SB_PCI0GFX0VLOC
+ †\._SB_LID_
+€_Q3D F_Q48 p
+HP80H G{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€¡\STEP
+p
+\/_SB_PCI0LPC_EC__CALM:_Q49 p
+IP80H ,{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€¡\STEP
+_Q7F [2  €ýP+_Q4E p
+NP80H\/_SB_PCI0LPC_EC__HKEYMHKQ`+_Q4F p
+OP80H\/_SB_PCI0LPC_EC__HKEYMHKQ`+_Q46 p
+FP80H\/_SB_PCI0LPC_EC__HKEYMHKQ`_Q22 p
+"P80HCLPM HB0A†BAT0
+€_Q4A p
+JP80HCLPM†BAT0
+_Q4B p
+KP80HCLPM†BAT0
+€_Q24 p
+$P80HCLPM†BAT0
+€
+BATW \BT2T[1ECOR @PSBRCSBFCSBAESBRSSBACSBVOSBAFSBBS[ECOR @PSBBMSBMDSBCC['ECOR @PSBDCSBDVSBOMSBSISBDTSBSN[ECOR @PSBCH [ECOR @PSBMN@[ECOR @PSBDN@[BATM @GBIF[#BATMÿÿ @j}h
+HIID["
+pSBBMgzg
+gg
+ˆi
+  phHIID["
+ 
+gwSBFC
+
+a¡pSBFCapaˆi
+ }h
+HIID["
+ 
+gwSBDC
+
+`¡pSBDC`p`ˆi
+ xa
+bˆi
+  
+gp
+Èˆi
+ ¡! SBDVx@
+ SBDVbˆi
+ ¡	p
+ ˆi
+ pSBDVˆi
+ pSBSN`SERN	
+      p
+b¢`x`
+
+a`ra
+0ˆSERNb vbpSERNˆi
+
+ }h
+HIID["
+pSBDNˆi
+	 }h
+HIID["
+BTYP
+     pSBCHBTYPpBTYPˆi
+ }h
+HIID["
+pSBMNˆi
+ ¡'pÿÿÿÿˆi
+ p
+ ˆi
+ p
+ ˆi
+ pÿÿÿÿˆi
+ ['BATM¤iB0I0
+ B0I1
+ B0I2
+ B0I3
+ B1I0
+ B1I1
+ B1I2
+ B1I3
+ A"GBST[#BATMÿÿ 
+{i
+  p
+`¡ 
+{i
+@ p
+`¡p
+ ` {i
+ ¡}`
+` “{i
+ 
+p
+`p
+ ap
+ bp
+ c¡DphHIID["
+pSBVOc 
+jwSBRC
+
+b¡pSBRCbpSBACa ’•a € {`
+ t   aa¡p
+ a¡
+ ’{`
+ p
+ a 
+jwcaaxaègapy
+zh
+  e}BSWABSWRBSWA C“{\/_SB_PCI0LPC_EC__BSWAe 
+ p`ˆk
+  paˆk
+ pbˆk
+ pcˆk
+  “h
+ p`B0I0paB0I1pbB0I2pcB0I3¡p`B1I0paB1I1pbB1I2pcB1I3¡B
+ E\/_SB_PCI0LPC_EC__AC___PSR -“h
+ pB0I0ˆk
+  pB0I1ˆk
+ pB0I2ˆk
+ pB0I3ˆk
+ ¡)pB1I0ˆk
+  pB1I1ˆk
+ pB1I2ˆk
+ pB1I3ˆk
+ ¡p`ˆk
+  paˆk
+ pbˆk
+ pcˆk
+  ;“{`
+ 
+ ”b
+ ”c
+ {BSWA€e BSWAp`ˆk
+  paˆk
+ pbˆk
+ pcˆk
+ ['BATM¤kBSWR
+ BSWA
+ [‚GBAT0_HIDAÐ
+_UID
+ _PCL\_SB_B0ST
+ BT0I#
+ ÿÿÿÿÿÿÿÿ
+0*
+ 
+ 
+
+
+ 
+ 
+ 
+ BT0PD_STA  \H8DRpHB0AB0ST¡ {\RBEC
+8
+€ p
+B0ST¡p
+ B0ST B0ST¤
+¡¤
+G_BIF p
+ gp
+
+f¢+’gf HB0A “{HB0S
+ 
+["èvf¡p
+g¡p
+ f¤GBIF
+ BT0Ig#_BST ƒˆBT0I
+  
+`¤GBST
+ HB0S`BT0PI_BTP{HAM4
+ïHAM4 6hpha ’ƒˆBT0I
+  xa
+
+`a{a
+ÿHT0L{za
+ 
+ÿHT0H}HAM4
+HAM4[‚MAC___HID
+ACPI0003 _UID
+ _PCL\_SB_)_PSR  \H8DR¤HPAC¡ {\RBEC
+F
+ ¤
+¡¤
+ 	_STA ¤
+[‚E€HKEY_HID0® h	_STA ¤
+_INI 
+MHKV ¤ DHKC
+ DHKB
+DHKH
+ DHKW
+ DHKS
+ DHKD
+ DHKNDHKT
+ DHWW
+ [XDHK MHKA ¤ûÿÿÿMHKN ¤DHKNMHKK 
+DHKC¤{DHKNh ¡¤ @MHKM[#XDHKÿÿ ”h
+ £¡3yvh` ){`ûÿÿÿ  i}`DHKNDHKN¡{DHKN`ÿÿÿÿ DHKN¡£['XDHKMHKS †\._SB_SLPB
+€MHKCphDHKCIMHKP [#XDHKÿÿ DHWWpDHWWap DHWW¡O DHKWpDHKWap DHKW¡J DHKDpDHKDap DHKD¡5 DHKSpDHKSap DHKS¡! DHKTpDHKTap DHKT¡
+pDHKHap DHKH['XDHK¤a>MHKE	phDHKB[#XDHKÿÿp DHKHp DHKWp DHKSp DHKDp DHKTp DHWW['XDHKEMHKQ	 M
+DHKB @	DHKC[#XDHKÿÿ •h ¡M •h  phDHKH¡M •h 0phDHKW¡M •h @phDHKS¡= •h PphDHKD¡. •h `phDHKH¡ •h pphDHKT¡ •h €phDHWW¡['XDHK†HKEY
+€¡ “h†\._SB_SLPB
+€IMHKB &“h
+ \/_SB_PCI0LPC_EC__BEEP
+p
+ \LIDB¡* &“h
+\/_SB_PCI0LPC_EC__BEEP
+p
+\LIDB¡+MHKD  $“\PLUX
+  VIGD\/_SB_PCI0GFX0VLOC
+ >MHQC 1\WNTF “h
+ ¤\CWAC¡ “h
+¤\CWAP¡ “h
+¤\CWAT¡£¡£¤
+ 5MHGC  (\WNTF[#XDHKÿÿ CKC4
+ p
+`¡p
+`['XDHK¤`¡£¤
+ LMHSC A\CWAC\WNTF[#XDHKÿÿ E\OSC4 “h
+ ’\CWAS\PNTF
+p
+\CWAS¡  “h
+ \CWAS\PNTF
+p
+ \CWAS¡£['XDHK¡£ECKC4p
+ ` \C4WR ’\C4AC}`
+` \C4NA}`
+` \CWAC\CWAS}`
+`{`€h `¤`MHQE ¤\C4WRMHGE  \C4WR\C4AC¤
+¤
+DMHSE L\C4WRp\C4AC` %“h
+p
+ \C4AC `\C4AC  
+\OSC4\PNTF
+¡' %“h
+p
+\C4AC `\C4AC  
+\OSC4\PNTF
+
+UAWO¤\UAWShMLCGp\KBLS
+ 
+ `¤`JMLCSp\KBLS
+h` F’{`   €  '{h    \/_SB_PCI0LPC_EC__HKEYMHKQ`¡B ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQ¤`DSSG} \PDCI`¤`DSSS}\PDCIh\PDCISBSG¤\SYBC
+ 
+ SBSS¤\SYBC
+hPBLGp\BRLV`}` a¤aAPBLSph\BRLV \VIGD\/_SB_PCI0LPC_EC__BRNS¡\VBRC\BRLV %’\NBCF\/_SB_PCI0LPC_EC__HKEYMHKQP`¤
+ PMSGp\PRSM
+ 
+ `¤`PMSS\PRSM
+h¤
+ ;ISSGp\ISSP` \ISSP}`   `}`y\ISFS
+ `}`
+€`}`{\ISCG
+0 `¤`ISSSph\ISCG¤
+ 	FFSG¤
+ FFSS¤   €GGMKS  \/_SB_PCI0LPC_EC__HFNE¡&p
+\/_SB_PCI0LPC_EC__FNKC `}` `¤`DSMKS  {h
+ p
+ \/_SB_PCI0LPC_EC__HKLK¡p
+\/_SB_PCI0LPC_EC__HKLK¤\FNSC
+{h   /INSGp\IOEN`}`y\IOST
+ `}`y\IOCP
+ `}`   `¤`AINSS .{h     !\IOCPpz{h
+€ 
+ ` ’\EZRC`p`\IOST¤
+  \IOCP{h
+ p
+\IOEN¡"p
+ \IOEN \IOST ’\ISOC
+ p
+ \IOST¤
+ I$\/_SB_PCI0LPC_EC__HKEYINDV
+ LMHQI  {\IPMS
+ }INDV
+INDV {\IPMS
+ }INDV
+INDV {\IPMS
+ }INDV INDV {\IPMS
+ }INDV INDV {\IPMS
+ }INDV
+INDV¤INDVEMHGIRETB
+ŒRETB
+ MHGSy
+h` O{INDV`  $“h
+ [RETB
+
+xBRBUp\IPMBBRBUp
+MHGS¡@ $“h
+[RETB
+
+RRBUp\IPMRRRBUp
+MHGS¡H K“h
+[RETB
+
+ODBUŒRETB
+MHGZp\IPMOODBU *“^^BSTS
+ “^^BDEV
+}
+MHGZMHGZ}
+MHGZMHGZp
+MHGS¡I /“h
+	[RETB
+
+AUBUp\IPMAAUBUp
+ˆRETB
+ p
+MHGS¡6 4“h
+p\VDYN
+ 
+ a{a
+ˆRETB
+ za
+a{a
+ˆRETB
+ p
+MHGS¤RETBEMHSIy
+h` H{INDV`  >“h
+ 8i \H8DRp^^HPBUa¡{\RBEC
+G
+a ’ap^^BGID
+ ^^BDEV^^NBINa¡ 
+“h
+\VDYN
+iG\/_SB_PCI0LPC_EC__A_Q6A  HDMC£¡B ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQH\/_SB_PCI0LPC_EC__HKEYMMTG p` 
+HDMC}`   `¤`BMMTS HDMC£¡3 “h
+\._SB_SGOV 
+¡ “h
+¡\._SB_SGOV 
+ E\/_SB_PCI0LPC_EC__HKEY	PWMC ¤
+APWMG p\/_SB_PCI0LPC_EC__PWMH`y`
+`}`\/_SB_PCI0LPC_EC__PWML`¤`I\/_SB_PCI0LPC_EC__M_Q45  LDOCD["
+d\/_SB_PCI0LPC_EC__HKEYMHKQ@†\/_SB_PCI0XHCIURTHHSP3
+	†\/_SB_PCI0XHCIURTHSSP3
+	¡H["
+d\/_SB_PCI0LPC_EC__HKEYMHKQ@†\/_SB_PCI0XHCIURTHHSP3
+	†\/_SB_PCI0XHCIURTHSSP3
+	EDKID p\._SB_GGIV `p\._SB_GGIV ap\._SB_GGIV bp\._SB_GGIV c}`ya
+ `}`yb
+ `}`yc
+ `¤`N\/_SB_PCI0LPC_EC__HKEYDGDKS p
+ `p\/_SB_PCI0LPC_EC__DKIDaya
+a ’“a }`
+`}`a`}`   `¤`E\/_SB_PCI0LPC_EC__$_Q3F \/_SB_PCI0LPC_EC__HKEYMHKQ `J
+_Q74 p
+tP80H 3“HKLK
+ p
+\/_SB_PCI0LPC_EC__HKLK\._SB_SGOV 
+ ¡,p
+ \/_SB_PCI0LPC_EC__HKLK\._SB_SGOV 
+FNSC
+\/_SB_PCI0LPC_EC__HKLK\/_SB_PCI0LPC_EC__HKEYMHKQ``%\/_SB_PCI0LPC_EC__HKEYNUMG p
+ `¤`[€ECMM    ÿ [K
+ECMM €¾ ASBF F>BOID HHCPID @
+AATLAACLAASTAARWAAENAAEW 2OSTTOSSTTHLTTCNLMODE INITFAN1FAN2FANTSKNMSDTMFSSNFANUPCVLSWTOTTHRTTHMTHTL NPSTCTMPCTMLSKTASKTBSKTC NTMP 0CPUJCPNMGATY _Q7B P8XH
+ 
+{\PNTF
+€
+_Q78 p
+xAPMCN_Q90  K“\._SB_GGIV 
+ F“\/_SB_PCI0LPC_EC__ASBF A“\/_SB_PCI0LPC_EC__BOID E’“\/_SB_PCI0RP05PEGPBADRÿÿÿÿ[€AMSA \/_SB_PCI0RP05PEGPBADR   [AMSA  €ø)ASBT ’“ASBT
+ƒp
+ƒASBT¡H E’“\/_SB_PCI0RP09PEGPBADRÿÿÿÿ[€AMSB \/_SB_PCI0RP09PEGPBADR   [AMSB  €ø)ASBB ’“ASBB
+ƒp
+ƒASBB¡p \/_SB_PCI0LPC_EC__ASBFA_Q91 p\/_SB_PCI0LPC_EC__CPUJ`p\UCCT`apa\/_SB_PCI0LPC_EC__CTMP[€ECRM    ÿ [7ECRM €  H.ERIBERBD @%    PTVL       8 [FAMX &FANG[#FAMXÿÿphERIB["
+pERBD`['FAMX¤`"FANW[#FAMXÿÿphERIBpiERBD['FAMX¤i	TUVR¤
+THROITHRhCLCK
+PCLK IPCL+ITHR 
+“h
+ ¤SWTO¡ “h
+¡ 
+“h
+¤PCVL¡¤
+ÿ
+IPCL \PNTF
+€B\/_SB_PCI0LPC_EC__BTBF  [€MMEC   ÿ [MMECTWBT@€BTIF pTWBTBTBF¤BTBF7\/_SB_PCI0LPC_EC__HKEYSBIG¤\/_SB_PCI0LPC_EC__BTIF[‚+PEG0_ADR   _S3D
+RID_
+ [‚PEGP_ADR
+ [‚PEG1_ADR  [‚PEGP_ADR
+ [‚PEG2_ADR  [‚PEGP_ADR
+ [‚GFX0_ADR   RID_
+ [‚IIGBE_ADR  _S3D
+RID_
+ _DSM PCICh¤PCIDhijk¤
+ _PRW
+m
+D_PSW 6hp
+\/_SB_PCI0LPC_EC__HWPMp
+\/_SB_PCI0LPC_EC__HWLU¡5p
+ \/_SB_PCI0LPC_EC__HWPMp
+ \/_SB_PCI0LPC_EC__HWLU[‚A@EXP1_ADR  ’“RPA1
+ ¤RPA1¡¤   RID_
+ *_INI pLTR1LTRNpPML1LMSLpPNL1LNSLpOBF1OBFNLPRTCÿÿ
+ \._SB_LNKA
+ ÿÿ
+\._SB_LNKB
+ ÿÿ
+\._SB_LNKC
+ ÿÿ
+\._SB_LNKD
+ APRT2ÿÿ
+ 
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+_PRT  \GPIC¤APRT¡¤LPRT[€PXCS
+ €[FPXCS VDID  @&L0SE LDIS   
+LASX 2ABPX PDCX PDSX  ( PSPX O D3HT N HPEXPMEX 0 L23EL23R Œ  LEDM[PXCS@ @n HPSXPMSXLTRV
+
+ 
+ 
+ 
+ L!_DSM_T_0  H “h
+Ð7ÉåS5zM‘êMÃCM¢Op™j _T_0 G	“_T_0
+ OPTS
+  OPTS
+ FUN0OPTS
+FUN4OPTS
+FUN6OPTS
+FUN8OPTS
+	FUN9 F’•i
+p
+FUN0 LTREp
+FUN6 OBFFp
+FUN4 “ECR1
+ ’•i
+p
+FUN8p
+FUN9¤OPTS¡J B“_T_0
+ 8’•i
+ OBFN¤
+               ¡¤
+                ¡D J“_T_0
+ @’•i
+ C
+LTRN I‘“LMSL
+ “LNSL
+  “PCHSSPTHpFLMSLpFLNSL¡ “PCHSSPTLpLMSLpLNSLp{zLMSL
+
+ 
+ ˆLTRV
+  p{LMSLÿ ˆLTRV
+ p{zLNSL
+
+ 
+ ˆLTRV
+ p{LNSLÿ ˆLTRV
+ ¤LTRV¡¤
+ ¡F “_T_0
+ “ECR1
+ 	’•i
+¤
+¡' %“_T_0
+	 “ECR1
+ ’•i
+¤PÃÿÿPÃÿ¥¤
+ [‚PXSX_ADR
+ )HPME "’“VDIDÿÿÿÿ“PMSX
+p
+PMSXp
+PSPX[‚A@EXP2_ADR  ’“RPA2
+ ¤RPA2¡¤  RID_
+ *_INI pLTR2LTRNpPML2LMSLpPNL2LNSLpOBF2OBFNLPRTCÿÿ
+ \._SB_LNKB
+ ÿÿ
+\._SB_LNKC
+ ÿÿ
+\._SB_LNKD
+ ÿÿ
+\._SB_LNKA
+ APRT2ÿÿ
+ 
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+_PRT  \GPIC¤APRT¡¤LPRT[€PXCS
+ €[FPXCS VDID  @&L0SE LDIS   
+LASX 2ABPX PDCX PDSX  ( PSPX O D3HT N HPEXPMEX 0 L23EL23R Œ  LEDM[PXCS@ @n HPSXPMSXLTRV
+
+ 
+ 
+ 
+ L!_DSM_T_0  H “h
+Ð7ÉåS5zM‘êMÃCM¢Op™j _T_0 G	“_T_0
+ OPTS
+  OPTS
+ FUN0OPTS
+FUN4OPTS
+FUN6OPTS
+FUN8OPTS
+	FUN9 F’•i
+p
+FUN0 LTREp
+FUN6 OBFFp
+FUN4 “ECR1
+ ’•i
+p
+FUN8p
+FUN9¤OPTS¡J B“_T_0
+ 8’•i
+ OBFN¤
+               ¡¤
+                ¡D J“_T_0
+ @’•i
+ C
+LTRN I‘“LMSL
+ “LNSL
+  “PCHSSPTHpFLMSLpFLNSL¡ “PCHSSPTLpLMSLpLNSLp{zLMSL
+
+ 
+ ˆLTRV
+  p{LMSLÿ ˆLTRV
+ p{zLNSL
+
+ 
+ ˆLTRV
+ p{LNSLÿ ˆLTRV
+ ¤LTRV¡¤
+ ¡F “_T_0
+ “ECR1
+ 	’•i
+¤
+¡' %“_T_0
+	 “ECR1
+ ’•i
+¤PÃÿÿPÃÿ¥¤
+ [‚PXSX_ADR
+ )HPME "’“VDIDÿÿÿÿ“PMSX
+p
+PMSXp
+PSPX[‚A@EXP3_ADR  ’“RPA3
+ ¤RPA3¡¤  RID_
+ *_INI pLTR3LTRNpPML3LMSLpPNL3LNSLpOBF3OBFNLPRTCÿÿ
+ \._SB_LNKC
+ ÿÿ
+\._SB_LNKD
+ ÿÿ
+\._SB_LNKA
+ ÿÿ
+\._SB_LNKB
+ APRT2ÿÿ
+ 
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+_PRT  \GPIC¤APRT¡¤LPRT[€PXCS
+ €[FPXCS VDID  @&L0SE LDIS   
+LASX 2ABPX PDCX PDSX  ( PSPX O D3HT N HPEXPMEX 0 L23EL23R Œ  LEDM[PXCS@ @n HPSXPMSXLTRV
+
+ 
+ 
+ 
+ L!_DSM_T_0  H “h
+Ð7ÉåS5zM‘êMÃCM¢Op™j _T_0 G	“_T_0
+ OPTS
+  OPTS
+ FUN0OPTS
+FUN4OPTS
+FUN6OPTS
+FUN8OPTS
+	FUN9 F’•i
+p
+FUN0 LTREp
+FUN6 OBFFp
+FUN4 “ECR1
+ ’•i
+p
+FUN8p
+FUN9¤OPTS¡J B“_T_0
+ 8’•i
+ OBFN¤
+               ¡¤
+                ¡D J“_T_0
+ @’•i
+ C
+LTRN I‘“LMSL
+ “LNSL
+  “PCHSSPTHpFLMSLpFLNSL¡ “PCHSSPTLpLMSLpLNSLp{zLMSL
+
+ 
+ ˆLTRV
+  p{LMSLÿ ˆLTRV
+ p{zLNSL
+
+ 
+ ˆLTRV
+ p{LNSLÿ ˆLTRV
+ ¤LTRV¡¤
+ ¡F “_T_0
+ “ECR1
+ 	’•i
+¤
+¡' %“_T_0
+	 “ECR1
+ ’•i
+¤PÃÿÿPÃÿ¥¤
+ [‚PXSX_ADR
+ )HPME "’“VDIDÿÿÿÿ“PMSX
+p
+PMSXp
+PSPX[‚C?RP05_ADR  ’“RPA5
+ ¤RPA5¡¤  RID_
+ *_INI pLTR5LTRNpPML5LMSLpPNL5LNSLpOBF5OBFNLPRTCÿÿ
+ \._SB_LNKA
+ ÿÿ
+\._SB_LNKB
+ ÿÿ
+\._SB_LNKC
+ ÿÿ
+\._SB_LNKD
+ APRT2ÿÿ
+ 
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+_PRT  \GPIC¤APRT¡¤LPRT[€PXCS
+ €[FPXCS VDID  @&L0SE LDIS   
+LASX 2ABPX PDCX PDSX  ( PSPX O D3HT N HPEXPMEX 0 L23EL23R Œ  LEDM[PXCS@ @n HPSXPMSXLTRV
+
+ 
+ 
+ 
+ L!_DSM_T_0  H “h
+Ð7ÉåS5zM‘êMÃCM¢Op™j _T_0 G	“_T_0
+ OPTS
+  OPTS
+ FUN0OPTS
+FUN4OPTS
+FUN6OPTS
+FUN8OPTS
+	FUN9 F’•i
+p
+FUN0 LTREp
+FUN6 OBFFp
+FUN4 “ECR1
+ ’•i
+p
+FUN8p
+FUN9¤OPTS¡J B“_T_0
+ 8’•i
+ OBFN¤
+               ¡¤
+                ¡D J“_T_0
+ @’•i
+ C
+LTRN I‘“LMSL
+ “LNSL
+  “PCHSSPTHpFLMSLpFLNSL¡ “PCHSSPTLpLMSLpLNSLp{zLMSL
+
+ 
+ ˆLTRV
+  p{LMSLÿ ˆLTRV
+ p{zLNSL
+
+ 
+ ˆLTRV
+ p{LNSLÿ ˆLTRV
+ ¤LTRV¡¤
+ ¡F “_T_0
+ “ECR1
+ 	’•i
+¤
+¡' %“_T_0
+	 “ECR1
+ ’•i
+¤PÃÿÿPÃÿ¥¤
+ )HPME "’“VDIDÿÿÿÿ“PMSX
+p
+PMSXp
+PSPX[‚A>RP09_ADR  ’“RPA9
+ ¤RPA9¡¤   RID_
+ _INI pPML9LMSLpPNL9LNSLLPRTCÿÿ
+ \._SB_LNKD
+ ÿÿ
+\._SB_LNKA
+ ÿÿ
+\._SB_LNKB
+ ÿÿ
+\._SB_LNKC
+ APRT2ÿÿ
+ 
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+ÿÿ
+
+ 
+_PRT  \GPIC¤APRT¡¤LPRT[€PXCS
+ €[FPXCS VDID  @&L0SE LDIS   
+LASX 2ABPX PDCX PDSX  ( PSPX O D3HT N HPEXPMEX 0 L23EL23R Œ  LEDM[PXCS@ @n HPSXPMSXLTRV
+
+ 
+ 
+ 
+ L!_DSM_T_0  H “h
+Ð7ÉåS5zM‘êMÃCM¢Op™j _T_0 G	“_T_0
+ OPTS
+  OPTS
+ FUN0OPTS
+FUN4OPTS
+FUN6OPTS
+FUN8OPTS
+	FUN9 F’•i
+p
+FUN0 LTREp
+FUN6 OBFFp
+FUN4 “ECR1
+ ’•i
+p
+FUN8p
+FUN9¤OPTS¡J B“_T_0
+ 8’•i
+ OBFN¤
+               ¡¤
+                ¡D J“_T_0
+ @’•i
+ C
+LTRN I‘“LMSL
+ “LNSL
+  “PCHSSPTHpFLMSLpFLNSL¡ “PCHSSPTLpLMSLpLNSLp{zLMSL
+
+ 
+ ˆLTRV
+  p{LMSLÿ ˆLTRV
+ p{zLNSL
+
+ 
+ ˆLTRV
+ p{LNSLÿ ˆLTRV
+ ¤LTRV¡¤
+ ¡F “_T_0
+ “ECR1
+ 	’•i
+¤
+¡' %“_T_0
+	 “ECR1
+ ’•i
+¤PÃÿÿPÃÿ¥¤
+ )HPME "’“VDIDÿÿÿÿ“PMSX
+p
+PMSXp
+PSPX[‚SAT1_ADR   _S3D
+RID_
+ [‚J
+SMBU_ADR  _S3D
+RID_
+ _DSM PCICh¤PCIDhijk¤
+ [€SMBP
+P
+[SMBP TCOB TCBV
+ 0TCBS  $“TCBV
+ py\/_SB_PCI0SMBUTCOB
+ TCBV¤TCBV[€TCBATCBS
+[TCBA   	CPSC[‚CýXHCI_ADR   RID_
+ [‚GURTH_ADR
+ [‚HSP0_ADR
+[‚HSP1_ADR
+[‚HSP2_ADR
+[‚HSP3_ADR
+[‚HSP4_ADR
+[‚HSP5_ADR
+[‚HSP6_ADR
+[‚HSP7_ADR
+[‚WCAM_ADR
+[‚HSP8_ADR
+	[‚HSP9_ADR
+
+[‚HSPA_ADR
+[‚HSPB_ADR
+[‚SSP0_ADR
+
+[‚SSP1_ADR
+[‚SSP2_ADR
+[‚SSP3_ADR
+[‚SSP4_ADR
+[‚SSP5_ADR
+_PR0\/_SB_PCI0LPC_EC__PUBS_PR1\/_SB_PCI0LPC_EC__PUBS_PR2\/_SB_PCI0LPC_EC__PUBS_PRW
+m
+\/_SB_PCI0LPC_EC__PUBSCY\._SB_PCI0FX\/_SB_PCI0XHCI[€XPRT
+  [DXPRT DVID @XADL XADH  @ STGE M( D3HE - 
+MW13MW14    
+MB13MB14  @PR2_ PR2M PR3_ PR3M [XPRT @:D0D3 PMEE PMESXFLT
+ E_DSMADBG
+_DSM yXADH
+ `}`XADL`{`ðÿÿÿÿÿÿÿ`[€XMIO ` [$XMIO €¨PCCS PPLSPTPP †g?PRTM PCICh¤PCIDhijk D“h
+·4¬é¿E·æ+4ì“# “i
+piXFLT O”PRTM
+ ‘“i
+“i
+ADBG
+SSIC  9‘‘“PCCS
+ “PTPP
+ ’•PPLS
+’”PPLS
+ “PPLS
+pD3HE¡p D3HE¡pD3HE¤
+ 	_S3D ¤
+	_S4D ¤
+	_S3W ¤
+	_S4W ¤
+_S0W  
+“XFLT ¤
+ ¡¤
+_DSWphPMEE9_INI  2[\/_SB_PCI0XHCIURTHINIR \/_SB_PCI0XHCIURTHINIR[€XHCP r\/_SB_PCI0GPCB  
+   [XHCP  PDBM @MEMB@XRST B_PS0 “^DVIDÿÿ¤ p^MEMBbp^PDBMa{^PDBM€
+ ^PDBMp
+ D3HEp
+ STGEp^D0D3cp
+ ^D0D3p\XWMB^MEMB}a
+^PDBM[€MC11 \XWMB [MC11 €â@ UPSWp
+ UPSW{^PDBM€
+ ^PDBMpb^MEMBpa^PDBM *[\/_SB_PCI0XHCIPS0X \/_SB_PCI0XHCIPS0X UWAB“D0D3
+ p
+MPMC¢	PMFS["
+
+C_PS3 “^DVIDÿÿ¤ p^MEMBbp^PDBMa{^PDBM€
+ ^PDBMp
+ ^D0D3p\XWMB^MEMB}a
+^PDBM[€MC11 \XWMB [MC11 €â@ UPSWp
+UPSW{^PDBM€
+ ^PDBMp
+D3HEp
+STGEp
+^D0D3pb^MEMBpa^PDBM *[\/_SB_PCI0XHCIPS3X \/_SB_PCI0XHCIPS3X UWAB“D0D3
+p
+MPMC¢	PMFS["
+
+$CUID	 “h
+©•|´L¯}Pj$#«q¤
+¤
+ G\/_SB_PCI0XHCIURTHE_PS0 “\/_SB_PCI0XHCIDVIDÿÿ¤  2[\/_SB_PCI0XHCIURTHPS0X \/_SB_PCI0XHCIURTHPS0XE_PS2 “\/_SB_PCI0XHCIDVIDÿÿ¤  2[\/_SB_PCI0XHCIURTHPS2X \/_SB_PCI0XHCIURTHPS2XE_PS3 “\/_SB_PCI0XHCIDVIDÿÿ¤  2[\/_SB_PCI0XHCIURTHPS3X \/_SB_PCI0XHCIURTHPS3XN\ UPC0
+
+ÿ
+ 
+ 
+ PLD0
+       ™€    UPC1
+
+ÿ
+ 
+ 
+ PLD1
+       ‘    UPC2
+
+ÿ
+ 
+ 
+ PLD2
+       ™    UPC3
+
+ÿ
+ 
+ 
+ PLD3
+       ‘€   UPCI
+
+ 
+ÿ
+ 
+ PLDI
+       0      PLDC
+‚       $      Ý • N\/_SB_PCI0XHCIURTHHSP0%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC0UPCP¤UPCP_PLDPLDP
+p\PLD0PLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP1%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC1UPCP¤UPCP_PLDPLDP
+p\PLD1PLDP¤PLDP@\/_SB_PCI0XHCIURTHHSP2N_UPCUPCP
+
+ 
+ 
+ 
+  %“\/_SB_PCI0LPC_EC__DOCD
+\UPCIUPCP¡\UPC3UPCP¤UPCPG_PLDPLDP
+ %“\/_SB_PCI0LPC_EC__DOCD
+p\PLDIPLDP¡p\PLD3PLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP3%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC2UPCP¤UPCP_PLDPLDP
+p\PLD2PLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP4%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP5%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP6%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP7%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP8%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSP9%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSPA%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHHSPB%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHSSP0%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC0UPCP¤UPCP_PLDPLDP
+p\PLD0PLDP¤PLDPN\/_SB_PCI0XHCIURTHSSP1%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC1UPCP¤UPCP_PLDPLDP
+p\PLD1PLDP¤PLDP@\/_SB_PCI0XHCIURTHSSP2N_UPCUPCP
+
+ 
+ 
+ 
+  %“\/_SB_PCI0LPC_EC__DOCD
+\UPCIUPCP¡\UPC3UPCP¤UPCPG_PLDPLDP
+ %“\/_SB_PCI0LPC_EC__DOCD
+p\PLDIPLDP¡p\PLD3PLDP¤PLDPN\/_SB_PCI0XHCIURTHSSP3%_UPCUPCP
+
+ 
+ 
+ 
+ \UPC2UPCP¤UPCP_PLDPLDP
+p\PLD2PLDP¤PLDPN\/_SB_PCI0XHCIURTHSSP4%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPN\/_SB_PCI0XHCIURTHSSP5%_UPCUPCP
+
+ 
+ 
+ 
+ \UPCIUPCP¤UPCP_PLDPLDP
+p\PLDIPLDP¤PLDPM\/_SB_PCI0XHCIURTHHSP7WCAM_STA  	\WIN8¤
+¡¤
+ _UPC¤\UPCI_PLD¤\PLDC[‚GHDEF_ADR  _S3D
+RID_
+ (_DSMADBG
+HDAS _DSM  PCICh¤PCIDhijk¤
+ [‚7HECI_ADR   _S3D
+RID_
+ _DSM PCICh¤PCIDhijk¤
+ BV\/_SB_PCI0LPC_EC__BDEV
+ÿBSTS
+ BHKE
+ "_Q2C  “BSTS
+ pBGID
+ BDEVNBREBDEV_Q2D pBGID
+ BDEVNBINBDEVD_Q38 pBGID
+ ` O“`
+BDIS\BHDP
+
+ NBEJBDEVp`BDEV =“\BIDE
+p
+ \/_SB_PCI0SAT1PRIMGTMEp
+ \/_SB_PCI0SAT1SCNDGTME¡ HPBU¡p`BDEVNBIN`JNBRE B•h
+ #“\BIDE
+†\/_SB_PCI0SAT1SCNDMSTR
+¡†\/_SB_PCI0SAT1PRT1
+ANBEJ L“BSTS
+  B•h
+ #“\BIDE
+†\/_SB_PCI0SAT1SCNDMSTR
+¡†\/_SB_PCI0SAT1PRT1
+BEEP
+ p
+ BSTSMNBIN H•h
+BEN_
+ #“\BIDE
+†\/_SB_PCI0SAT1SCNDMSTR
+¡†\/_SB_PCI0SAT1PRT1
+BEEP
+ p
+ BSTSCBEJ0 BhBDIS\BHDP
+
+ p
+BSTS *BHKEp
+ BHKE\/_SB_PCI0LPC_EC__HKEYMHKQ0¡p
+ BSTSBEJ3 
+hBDISp
+BSTS¡p
+ BSTS2BPTSp
+HDBM ’“BSTS
+ p
+BDEVp
+ BSTSp
+ BHKEBUWK
+ ABWAKBUWK
+ pBGID
+ ` B“BSTS
+  ’“`BDEVNBEJBDEVp`BDEVNBIN`¡, *‘\LFDC’“BDEV
+
+ ’“`
+ HPBU ’”h
+¡NBRE` •BDEV
+\UBIS
+ ¡\UBIS
+IBDIS  A’\/_SB_PCI0LPC_CSON ’\/_SB_PCI0LPC_GLIS\UBIS
+p
+\/_SB_PCI0LPC_CSONp
+\IDETOBPON G\/_SB_PCI0LPC_CSONp
+ \/_SB_PCI0LPC_CSON \/_SB_PCI0LPC_GLIS\UBIS
+ 'BEN_  \/_SB_PCI0LPC_CSONBPONh hIRDY3BSTA \/_SB_PCI0LPC_CSON¤
+ BINI 
+“h
+¤•BDEV
+¤
+ DBUWK ?\H8DR hp
+\/_SB_PCI0LPC_EC__HWBU¡p
+ \/_SB_PCI0LPC_EC__HWBU¡ 
+h\MBEC
+2
+ÿ
+€¡\MBEC
+2
+
+ BINI  “BDEV
+ÿpBGID
+ BDEVJBGID hp
+ÿ`¡I \H8DRpHPBUapHBIDb¡pRBEC
+Gb{b
+a{b
+bzb
+b bp
+`¡- 	HDUBp
+`¡! ‘“\IDET
+“\IDET
+p\IDET`¡p
+` “`
+ \HDUB•`
+p
+`¤`2IRDY pô`p
+<ap b¢a["`p\BCHKc ’c¥ 	“c
+pb¥va¤b@\/_SB_PCI0LPC_EC__
+_Q43 \UCMS
+,SAUM ”h
+£¡ \H8DRphHAUM¡\MBEC
+
+Ÿyh
+ G\/_SB_PCI0LPC_EC__HKEYKGSMSp\AUDC
+ 
+ `{`
+` “`
+ \._SB_SGOV
+ 
+ ¡\._SB_SGOV
+ 
+¤\AUDC
+ 
+ =SSMS “h
+ \._SB_SGOV
+ 
+ ¡\._SB_SGOV
+ 
+¤\AUDC
+{h
+ SHDA¤\AUDC
+{h
+ F_\/_SB_PCI0LPC_EC__BRTW&
+d
+d
+
+
+
+
+
+
+#
+(
+-
+2
+7
+<
+A
+F
+P
+Z
+dBRTBA.
+
+
+
+
+
+
+
+
+
+
+!
+(
+2
+A
+T
+s
+¢
+Õ
+ÿ
+Ü
+Ü
+
+.
+
+
+
+
+
+
+
+!
+.
+:
+C
+P
+_
+x
+•
+Á
+Ü
+ÿ
+Ü
+Ü
+
+.
+
+
+
+
+	
+
+
+
+
+%
+2
+@
+P
+d
+‚
+¥
+Í
+ÿ
+Ü
+Ü
+
+0
+(
+
+
+
+
+
+
+
+
+
+
+ 
+,
+;
+P
+l
+’
+Á
+ÿ““
+
+BRTDK3Me
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!
+"
+$
+&
+(
+*
+,
+.
+0
+3
+5
+7
+:
+<
+?
+A
+D
+F
+I
+L
+O
+Q
+T
+W
+Z
+]
+a
+d
+g
+j
+n
+q
+u
+x
+|
+€
+ƒ
+‡
+‹
+
+“
+—
+›
+Ÿ
+£
+¨
+¬
+°
+µ
+¹
+¾
+Ã
+Ç
+Ì
+Î
+Ñ
+Ó
+Ö
+Ø
+Û
+Ý
+à
+â
+å
+ç
+ê
+ì
+ï
+ò
+ô
+÷
+ú
+ü
+ÿMe
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+!
+"
+#
+%
+&
+(
+*
+,
+.
+/
+1
+3
+5
+7
+:
+<
+>
+@
+B
+E
+G
+J
+L
+N
+Q
+T
+V
+Y
+\
+^
+a
+d
+g
+j
+m
+p
+s
+v
+y
+}
+€
+ƒ
+†
+Š
+
+‘
+”
+˜
+œ
+Ÿ
+£
+§
+«
+¯
+´
+¸
+¼
+Á
+Å
+Ê
+Î
+Ó
+Ø
+Ü
+á
+æ
+ë
+ð
+õ
+ú
+ÿMe
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!
+"
+$
+&
+(
+*
+,
+.
+0
+3
+5
+7
+:
+<
+?
+A
+D
+F
+I
+L
+O
+Q
+T
+W
+Z
+]
+a
+d
+g
+j
+n
+q
+u
+x
+|
+€
+ƒ
+‡
+‹
+
+“
+—
+›
+Ÿ
+£
+¨
+¬
+°
+µ
+¹
+¾
+Ã
+Ç
+Ì
+Î
+Ñ
+Ó
+Ö
+Ø
+Û
+Ý
+à
+â
+å
+ç
+ê
+ì
+ï
+ò
+ô
+÷
+ú
+ü
+ÿMe
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+!
+"
+$
+&
+(
+*
+,
+.
+0
+3
+5
+7
+:
+<
+?
+A
+D
+F
+I
+L
+O
+Q
+T
+W
+Z
+]
+a
+d
+g
+j
+n
+q
+u
+x
+|
+€
+ƒ
+‡
+‹
+
+“
+—
+›
+Ÿ
+£
+¨
+¬
+°
+µ
+¹
+¾
+Ã
+Ç
+Ì
+Î
+Ñ
+Ó
+Ö
+Ø
+Û
+Ý
+à
+â
+å
+ç
+ê
+ì
+ï
+ò
+ô
+÷
+ú
+ü
+ÿB_Q14  =\/_SB_PCI0LPC_EC__HKEYMHKK €\/_SB_PCI0LPC_EC__HKEYMHKQ \VIGD†\/_SB_PCI0GFX0DD1F
+†F_Q15  ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQ \VIGD†\/_SB_PCI0GFX0DD1F
+‡¤ IBRNS r\BRLV
+`p\BRTNc 8\/_SB_PCI0GFX0DRDYpƒˆƒˆBRTBc ` b\/_SB_PCI0GFX0AINT
+b¡\UCMS
+*BRCF •h
+ ¤
+  ”h
+d¤
+rh
+`w`
+`x`
+d`a¤aBRCDpƒˆƒˆBRTD\BRTN h `¤`BBFRQ p  €`pƒˆƒˆBRTB\BRTN 
+ a}ya
+	 ``pƒˆƒˆBRTB\BRTN 
+ a}a``¤`D\/_SB_PCI0LPC_EC__N_Q19  ?\/_SB_PCI0LPC_EC__HKEYMHKK  € \/_SB_PCI0LPC_EC__HKEYMHKQ\UCMS
+D\/_SB_PCI0LPC_EC__N_Q63  ?\/_SB_PCI0LPC_EC__HKEYMHKK   \/_SB_PCI0LPC_EC__HKEYMHKQ\UCMS
+J
+\/_SB_PCI0LPC_EC__!_Q70 FNST FNKS\._SB_SGOV 
+
+_Q72 FNST_Q73 FNST\._SB_SGOV 
+ KFNST  \H8DRpHFNS`pHFNEa¡{\RBEC
+
+`{\RBEC
+ 
+a Ha “`
+ \UCMS
+ “`
+\UCMS
+ “`
+\UCMS
+\/_SB_PCI0LPC_EC__HKEYMHKQ`A\/_SB_PCI0LPC_EC__HKEYGHSL¤\FNSC
+ 
+ SHSL¤\FNSC
+{h   D8\/_SB_PCI0LPC_EC__HKEYWGFL
+ 	WSIF ¤
+ WLSW ¤ €7GWAN p
+ ` {WGFL
+ }`
+` {WGFL
+ ¤` 
+WPWS}`
+`}`
+`¤`@SWAN &{h
+ WPWC
+p
+\/_SB_PCI0LPC_EC__RCWW¡!WPWC
+ p
+ \/_SB_PCI0LPC_EC__RCWW7GBDC p
+ ` {WGFL
+ }`
+` {WGFL
+€ ¤` 
+BPWS}`
+`}`
+`¤`@SBDC &{h
+ BPWC
+p
+\/_SB_PCI0LPC_EC__RCBD¡!BPWC
+ p
+ \/_SB_PCI0LPC_EC__RCBD;WPWS  \H8DRp\/_SB_PCI0LPC_EC__DCWW`¡pz{\RBEC
+:
+@ 
+ `¤`B	WPWC Nh{WGFL
+ ’{WGFL
+  \H8DRp\/_SB_PCI0LPC_EC__DCWW¡\MBEC
+:
+ÿ
+@}WGFL
+WGFL¡; \H8DRp \/_SB_PCI0LPC_EC__DCWW¡\MBEC
+:
+¿
+ {WGFL€
+ WGFL;BPWS  \H8DRp\/_SB_PCI0LPC_EC__DCBD`¡pz{\RBEC
+:
+ 
+ `¤`OBPWC Dh{WGFL
+ ’{WGFL
+€  \H8DRp\/_SB_PCI0LPC_EC__DCBD¡\MBEC
+:
+ÿ
+p
+\/_SB_PCI0LPC_BTON}WGFL
+ WGFL¡B \H8DRp \/_SB_PCI0LPC_EC__DCBD¡\MBEC
+:
+ï
+ p
+ \/_SB_PCI0LPC_BTON{WGFL€
+  WGFLBWGIN p
+ WGFLp\WGSV
+WGFL \WIN8 WGFL
+BPWC
+ WPWS}WGFL
+WGFL BPWS}WGFL
+ WGFLWGPS 
+’•h
+\BLTH
+WGWK£9\/_SB_PCI0LPC_EC__$_Q41 \/_SB_PCI0LPC_EC__HKEYMHKQ p[‚6WMI1_HIDAÐ_UID
+_WDGH
+´#õQw–ÍF¡ÏÀ²>ãM·A0_dšG˜õ33N§Ž%»Ã¡A1ïTKjí¥3M”U°Ù´ô³A2¶ëñtz’}L•ßiŽ!èµA3ÿï~(C|Dµ»ÔI’]SA4žÛŠ2\E¼“0Š~Ù‚FA5ýÙQ&‘iK¹NÐÞÕ–;×A6eds/çO­ª@ÆÇî.;A7!fÕÑ²ð  É)BA RETNJ
+Success 
+Not Supported 
+Invalid Parameter 
+Access Denied 
+System Busy ITEMBŽ]
+
+WakeOnLAN 
+ 
+EthernetLANOptionROM 
+ 
+USBBIOSSupport 
+ 
+AlwaysOnUSB 
+
+TrackPoint 
+
+TouchPad 
+ 
+FnSticky 
+
+ThinkPadNumLock 
+
+PowerOnNumLock 
+
+BootDisplayDevice 
+ 
+SpeedStep !
+	
+AdaptiveThermalManagementAC &
+	
+AdaptiveThermalManagementBattery 
+
+CDROMSpeed 
+
+CPUPowerManagement 
+ 
+PowerControlBeep 
+ 
+LowBatteryAlarm 
+ 
+PasswordBeep 
+ 
+KeyboardBeep 
+ 
+ExtendedMemoryTest 
+
+SATAControllerMode 
+ 
+CoreMultiProcessing 
+ 
+VirtualizationTechnology 
+ 
+LockBIOSSetting 
+
+MinimumPasswordLength "
+ 
+BIOSPasswordAtUnattendedBoot )
+ 
+FingerprintPredesktopAuthentication 
+
+FingerprintReaderPriority 
+
+FingerprintSecurityMode 
+
+SecurityChip 
+ 
+BIOSUpdateByEndUsers 
+ 
+DataExecutionPrevention 
+ 
+EthernetLANAccess 
+ 
+WirelessLANAccess 
+ 
+WirelessWANAccess 
+ 
+BluetoothAccess 
+ 
+WirelessUSBAccess 
+ 
+ModemAccess 
+ 
+USBPortAccess 
+ 
+IEEE1394Access 
+ 
+ExpressCardAccess 
+ 
+PCIExpressSlotAccess 
+ 
+UltrabayAccess 
+ 
+MemoryCardSlotAccess 
+ 
+SmartCardSlotAccess 
+ 
+IntegratedCameraAccess 
+ 
+MicrophoneAccess 
+
+
+BootMode 
+ 
+StartupOptionKeys 
+ 
+BootDeviceListF12Option 
+d
+BootOrder 
+ 
+WiMAXAccess 
+
+
+GraphicsDevice 
+ 
+TXTFeature 
+ 
+VTdFeature 
+
+AMTControl '
+ 
+FingerprintPasswordAuthentication 
+ 
+FingerprintReaderAccess &
+ 
+OsDetectionForSwitchableGraphics  
+
+ComputraceModuleActivation 
+
+PCIExpressPowerManagement 
+ 
+Reserved 
+ 
+eSATAPortAccess 
+ 
+HardwarePasswordManager 
+ 
+HyperThreadingTechnology 
+ 
+FnCtrlKeySwap 
+ 
+BIOSPasswordAtReboot 
+ 
+OnByAcAttach 
+d
+NetworkBoot 
+ 
+BootOrderLock 
+
+SharedDisplayPriority 
+
+ExpressCardSpeed 
+ 
+RapidStartTechnology 
+
+KeyboardIllumination 
+ 
+IPv4NetworkStack 
+ 
+IPv6NetworkStack 
+
+UefiPxeBootPriority %
+ 
+PhysicalPresenceForTpmProvision !
+ 
+PhysicalPresenceForTpmClear 
+ 
+SecureRollBackPrevention 
+ 
+SecureBoot 
+ 
+NfcAccess 
+ 
+BottomCoverTamperDetected  
+ 
+PasswordCountExceededError "
+ 
+BIOSPasswordAtBootDeviceList 
+
+TotalGraphicsMemory 
+
+BootTimeExtension 
+ 
+FnKeyAsPrimary 
+ 
+WiGig 
+ 
+BIOSPasswordAtPowerOn 
+
+SGXControl 
+ 
+Reserved 
+ 
+InternalStorageTamper VSELO*
+Disable 
+Enable 
+Disable 
+Automatic %
+Active 
+Inactive 
+Disable 
+Enable 
+Normal 
+High 
+Independent 
+Synchronized '
+LCD 
+DisplayPort 
+HDMI 
+DockDisplay 
+High 
+Normal 
+Silent 
+Compatibility 
+AHCI 
+External 
+InternalOnly !
+MaximizePerformance 
+Balanced 
+Quick 
+Diagnostics )
+
+Disable 
+4 
+5 
+6 
+7 
+8 
+9 
+10 
+11 
+12 
+Auto 
+On 
+Off -
+IntegratedGfx 
+DiscreteGfx 
+SwitchableGfx )
+Disable 
+ACOnly 
+ACandBattery 
+Enable 
+Disable 
+Enable 
+Disable 
+HDMI 
+DockDisplay 
+Generation1 
+Automatic '
+ThinkLightOnly 
+BacklightOnly 
+Both 
+IPv6First 
+IPv4First 
+256MB 
+512MB %
+Disable 
+1 
+2 
+3 
+ 
+5 
+ 
+ 
+ 
+ 
+10 $
+Disable 
+Enable 
+SoftwareControl VLSTF
+HDD0 
+HDD1 
+HDD2 
+HDD3 
+HDD4 
+PCILAN 
+ATAPICD0 
+ATAPICD1 
+ATAPICD2 
+USBFDD 
+USBCD 
+USBHDD 
+OtherHDD 
+OtherCD 
+NVMe0 
+NVMe1 
+NODEV PENC
+ascii 
+scancode PKBD
+us 
+fr 
+gr PTYP6
+pap 
+pop 
+uhdp1 
+mhdp1 
+uhdp2 
+mhdp2 
+uhdp3 
+mhdp3 [MWMI PCFG
+IBUF ILEN
+ PSTR
+M"WQA0[#MWMIÿÿ ’“\WMIS
+ h
+ ['MWMI¤
+ pƒˆITEM\WITM `pƒˆ`
+  apƒˆ`
+ b !•a
+dsb
+, fpƒˆVSELa csfƒˆc\WSEL g¡Np‡VLSTc ’”\WLS0csb
+, gsgƒˆVLST\WLS0 b ’”\WLS1csb
+: gsgƒˆVLST\WLS1 b ’”\WLS2csb
+: gsgƒˆVLST\WLS2 b ’”\WLS3csb
+: gsgƒˆVLST\WLS3 b ’”\WLS4csb
+: gsgƒˆVLST\WLS4 b ’”\WLS5csb
+: gsgƒˆVLST\WLS5 b ’”\WLS6csb
+: gsgƒˆVLST\WLS6 b ’”\WLS7csb
+: gsgƒˆVLST\WLS7 b ’”\WLS8csb
+: gsgƒˆVLST\WLS8 b ’”\WLS9csb
+: gsgƒˆVLST\WLS9 b ’”\WLSAcsb
+: gsgƒˆVLST\WLSA b ’”\WLSBcsb
+: gsgƒˆVLST\WLSB b ’”\WLSCcsb
+: gsgƒˆVLST\WLSC b ’”\WLSDcsb
+: gsgƒˆVLST\WLSD bpbg['MWMI¤gGWMA1[#MWMIÿÿ 
+“‡j
+ p
+`¡-pCARGj` $“`
+ pWSETITEMVSEL` “`
+ p\WMIS
+
+ `['MWMI¤ƒˆRETN` BWMA2[#MWMIÿÿpCARGj` ,“`
+  ’“ILEN
+ pCPASIBUF
+ ` “`
+ p\WMIS
+
+ `['MWMI¤ƒˆRETN` BWMA3[#MWMIÿÿpCARGj` ,“`
+  ’“ILEN
+ pCPASIBUF
+ ` “`
+ p\WMIS
+
+ `['MWMI¤ƒˆRETN` BWMA4[#MWMIÿÿpCARGj` ,“`
+  ’“ILEN
+ pCPASIBUF
+ ` “`
+ p\WMIS
+
+ `['MWMI¤ƒˆRETN` IWQA5[#MWMIÿÿp\WMIS
+
+ `p\WSPMˆPCFG
+  p\WSPSˆPCFG
+ p\WSMNˆPCFG
+ p\WSMXˆPCFG
+ p\WSENˆPCFG
+ p\WSKBˆPCFG
+ ['MWMI¤PCFGMWMA6[#MWMIÿÿ 
+“‡j
+ p
+`¡3pCARGj` *“`
+  ’“ILEN
+ pSPASIBUF` “`
+ p\WMIS
+
+ `['MWMI¤ƒˆRETN` LWMA7 	“‡j
+ ¤
+ pCARGj` A
+“`
+ pGITMIBUFITEMa “aÿ¤
+ pƒˆITEMa `pƒˆ`
+  a ?•a
+dpƒˆVSELa cpƒˆc
+  bp‡cdp
+e¢•edpƒˆce f ’“‡f
+ sb
+, gsgfbue¡2pƒˆVLST
+  bp‡VLSTdp
+e¢•edpƒˆVLSTe fsb
+, gsgfbue¤b@CARGp‡h` “`
+ p
+ IBUFp
+ ILEN¤
+  
+’“Žh
+¤
+ 	’•`
+ÿ¤
+phIBUFv`pƒˆIBUF` a ‘“a
+;“a
+*p
+ ˆIBUF` p`ILEN¡p‡hILEN¤
+ ASCMPp‡h` “`
+ ¤
+ u`STR1`phSTR1v`p
+ apjb¢"•a`pƒˆSTR1a cpƒˆib d ’“cd¤
+ uaubpƒˆib d “d
+ ¤
+ 
+‘“d
+,“d
+:¤
+¤
+ /GITMp
+ `p‡ia¢•`apƒˆƒˆi` 
+ c SCMPch
+ ¤`u`¤ÿ)GSELp
+ `p‡ha¢•`apƒˆh` b 
+SCMPbij¤`u`¤ÿSLENpƒˆhi `¤‡`CLRP p
+ \WPASp
+ \WPNWLGPASpi`p
+ a¢1’”a
+€pƒˆh` b ‘“b
+,“b
+ p
+ ˆPSTRa ¤apbˆPSTRa u`uap
+ ˆPSTRa ¤ÿC	CPASCLRPpi`pGPASh`a “aÿ¤
+ “a
+ ¤
+pPSTR\WPASr`a`u`pGSELPENCh`f “fÿ¤
+pf\WENC =“f
+ r`SLENPENC
+ ` 
+’“ƒˆh` 
+,¤
+u`pGSELPKBDh`f “fÿ¤
+pf\WKBD¤
+ NSPASCLRPpGSELPTYPh
+ f “fÿ¤
+pf\WPTYpSLENPTYPf` 
+’“ƒˆh` 
+,¤
+u`pGPASh`a ‘“aÿ“a
+ ¤
+pPSTR\WPASr`a` 
+’“ƒˆh` 
+,¤
+u`pGPASh`a “aÿ¤
+ “a
+ p
+ PSTRpPSTR\WPNWr`a`u`pGSELPENCh`f “fÿ¤
+pf\WENC =“f
+ r`SLENPENC
+ ` 
+’“ƒˆh` 
+,¤
+u`pGSELPKBDh`f “fÿ¤
+pf\WKBD¤
+ KHWSETpILEN`u`pGITMIBUFha “aÿ¤
+pa\WITMpƒˆha cpƒˆc
+ dp‡dbubpƒˆc
+  d :•d
+dpƒˆid epGSELeIBUFbf “fÿ¤
+pf\WSELrbSLENefbpƒˆIBUFb d¡F>p
+?\WLS0p
+?\WLS1p
+?\WLS2p
+?\WLS3p
+?\WLS4p
+?\WLS5p
+?\WLS6p
+?\WLS7p
+?\WLS8p
+?\WLS9p
+?\WLSAp
+?\WLSBp
+?\WLSCp
+?\WLSDpGSELVLSTIBUFbf “fÿ¤
+pf\WLS0rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS1rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS2rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS3rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS4rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS5rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS6rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS7rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS8rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLS9rbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLSArbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLSBrbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLSCrbSLENVLSTfbpƒˆIBUFb d ?•b`“d
+:ubpGSELVLSTIBUFbf “fÿ¤
+pf\WLSDrbSLENVLSTfbpƒˆIBUFb d “d
+,•b`ubpCPASIBUFb` ’“`
+ ¤`¤
+ WQBABŠFOMB     ò6  DS }ÚT¨Éš B
+
+!ƒPL EAÈ•!Ãp.@º å(r"÷ï1ˆ@H&„D S!p„ _¢É  §‚´eºø Bh
+0)À'˜,
+
+&ÛpdLäPbÆ€Ò9Ùt¡(šF”u‚—+@ò¤y^²>
+€G‘ Âb,SâaP@$g¨(`{ˆ†uœLj”–(ÀüÈ4‘ckzÄ‚dÒ†‚º§uRžhÄƒ2L‚¡q‚² ä` (À“ð‹ |Æä(#Í1cÂ<Ÿcˆ÷PcEäï QŒVÐ¼…,šÁz'ƒNðÿ?.BX”¦a‚î¼ CÊ8»/hFm	0'@› oB9Ï(ÇrŠQb¾#æ¹Ä5l„!O!PÜöA½OguGÿ¤`OùÀž
+NàX£Æ8•Žý€E‚G|.ðÐÚs< ‡pO»)øàÞ5 ®lÐá0ãõðÃÀI>`ðÃ†‡›çÉY©Ìtðiƒ0ò™¡=î—C>'{ê ãÿeä9ÃÓ÷|M0ìÀÑ1ôÃÆaœ†ï>/À8xäþÿR|šàGŸ&Øõà4ž<œ³òal÷6¢w{
+ ßùœw
+6XçàqBðøAÂCàxþ8C+r`ðÎ90FÁó<6L  ¯…zPŸj€×ÿÿT\¸“Ü{»8<×À}®zo)nŒºÆyx¤‰ò<ó.áÙÆ×O!Ž¯5F|™x·1îÁ=Ö<ääh"¼|¼ñ±¼b^(²p¬4þÿ5À
+ë|GvCwBü$~èÈá´ ²ñð)€ªÒ4aLO.x	œ›DÉ‡Eáœõ BAè Ç	ôÅ‘}"ô <ŒwvñaÂc÷1ÿc<£[
+†þÿçæƒ'¨ë&2}GP ù^àsÀ³Ã£€ÑŒÎÃOw²Ä“u”É¢gâ{…gô¦å9zÂ¾‡À:„|0ð4çÉr8O–Å×ð	œ-Èá1±FE¯B¿x>ÏGù$Ãx&ñ}+‚5‘“ömádƒ¾žanE°ÿÿ·"84˜™îU¨X÷*@ì°^{|°‚{¯‚{©zV8ÆðS1NéµÓ@a¢Ä{¯òß«Ø*L¬—+£¾N„$Ò«U”Èñ
+ù^^9÷*ýÿïU€y´÷*0^Ø
+	Ð‹`(óÅŠæ½X!þÿç¦çbEæ	ÿfpúÿ³ŒÝ‹0G+x)oV4Î2pAÆ7+ÀÑu7d¸`Q‚ùâéñCÂKÀcŽü@àË˜þÿ>ùžåÛÔ{/?`½WùðëáåÊ#‰r¡|·z¯2JÄbŸ‚
+m”§ŠèÆ{¹¯¤Ë@“á¿\ïæ€½&Áùÿ_“øõ
+ð“ýzEs_¯P¢ ¤H3Ïý
+àÄÿÿ~Xw¿z·#ð¢¼a¯XøŒW,f%Š·&
+ã+0ùÿ_±€ÙA7j¸'ßz<ßˆ¾Ã`NX0nXð‡ô0ì“Ä;–Vy~²z°Šb„€Çó.ì£Õ›–QbÇò…êYË×,CÄ} ö
+°ýÿ¿aŽ.üà€½a>g
+ž°ùÿß° þÿÿoXÀáv…½eao/d4ÔJü{ezÃÛ£ÇÙàIs®ÆÍæàGèTsg—·,¸—ª‡†(ñ*ü`õ(udWOÃ>fù–e¨oYì/V”ï¡}ç2ø£±Qƒ¾¿eÁûÿß²à‹ü«èDà[À`r2pôy?€‡‰8½/ùLÁ>S°ëAôÇ ŸK0ƒÿµâÐ=Š×xpüÿ?8¸w†#òÆƒÛA 8jpèñ8¤ÏcìÂðã¡
+ÐC–“x
+940KPŠ74úÿ’1Ÿr"¼/øÅÐ_S|»ðM7>p]:=>àsäòøpG'†Ë«9šøhÅ†¶›ž‡|®›`¼Bòk	Œþº	ÞÿÿuxŽ‚k½dÓ ¯ÅzPŸÙ Gc}fË½€ÝØàžÖ`ßÎÓÕÐ|ÄŽñ–$N„×§5_2âzZ3Fœ—6#¾R„xXóÉÍxáÂ¼°=­ãÿZƒ#çŠ
+Ðä¢;¤€åÚÀn)ð.ØÀùÿD_–6ÍqÁFqX
+æ	ÿz
+þIøz
+Ø¾Åâ®×Àêÿ½–‚GJïÔàºiãAß´a
+¾EÑ(äŠ¶
+ã[àû-
+,§·(ü<hßu¦ïÐðOMÏMNÍ>Hùpðüôÿñ^ç›Ôk”/0Ç1ÊË´!âùÔä³BÜÑFˆú<í	½FWÐ5
+ ÉýwË½‡ø•È×÷(8ÿÿ{`#Ì=Š¹G¡N&¾Ôy¢à‘BÅ&QèÃ*æa„‚ÐNh'
+r‹ñ¤£ _ËôPyä¡RÕq†Šž¤çùÿ°)€
+múÔhÔªA™eÔêS©1cçPK;KP1‹Ñh„Êþ›Ä!Ÿ:t°•€,kmq|€HËcB@Î
+" «X“€¬ù#pëÔÄR‚ÐD¨ãh0„F@F! ËøtÜ¬ 1ù T°P¦D@VºVY7ˆ€þÿ/ƒ2Î2ºb
+
+±&= L ˆ®Ä“" Ç9˜ÜqRGÃ¥ TüóD d	Œ‚Ðš@˜<O ,ÔŸ\§¢jˆÔü0Ð`œD@Nú§
+DrƒÈùŸ"wê×„†O¾XAˆ¸‡UP¢D@Vö´u‚Èÿ[‚I–WMI2_HIDAÐ_UID
+_WDGH
+dñ$´üZN¿ÄbóçqúA7ã^¾âÚBÛIƒxRG8‚A8š0téÜHEº°ŸÞ	5ÊÿA9
+pôl;^N¢'éy‚J…ÑAA!fÕÑ²ð  É)BB PREL
+        I
+WQA7[#\/_SB_WMI1MWMIÿÿ\WMIS
+
+ p\WLS0ˆPREL
+  p\WLS1ˆPREL
+ p\WLS2ˆPREL
+ p\WLS3ˆPREL
+ p\WLS4ˆPREL
+ p\WLS5ˆPREL
+ p\WLS6ˆPREL
+ p\WLS7ˆPREL
+ ['\/_SB_WMI1MWMI¤PRELDWMA8Œj
+ PRE0Œj
+PRE1Œj
+PRE2Œj
+PRE3Œj
+PRE4Œj
+PRE5Œj
+PRE6Œj
+PRE7[#\/_SB_WMI1MWMIÿÿpPRE0\WLS0pPRE1\WLS1pPRE2\WLS2pPRE3\WLS3pPRE4\WLS4pPRE5\WLS5pPRE6\WLS6pPRE7\WLS7\WMIS
+
+ ['\/_SB_WMI1MWMIITEMH"
+ 
+InhibitEnteringThinkPadSetup 
+ 
+MTMSerialConcatenation 
+ 
+SwapProductName 
+ 
+ComputraceMsgDisable 
+ 
+CpuDebugEnable !
+ 
+PasswordAfterBootDeviceList 
+
+SpecialCharForPassword VSEL3
+Disable 
+Enable 
+Off 
+On 
+Disable 
+412 IWQA9[#\/_SB_WMI1MWMIÿÿ !’“\WMIS
+	h
+ ['\/_SB_WMI1MWMI¤
+ pƒˆITEM\WITM `pƒˆ`
+  apƒˆ`
+ bsb
+, fpƒˆVSELa csfƒˆc\WSEL g['\/_SB_WMI1MWMI¤gOWMAA[#\/_SB_WMI1MWMIÿÿ 
+“‡j
+ p
+`¡Dp\/_SB_WMI1CARGj` /“`
+ p\/_SB_WMI1WSETITEMVSEL` “`
+ p\WMIS
+
+
+ `['\/_SB_WMI1MWMI¤ƒˆ\/_SB_WMI1RETN` WQBBMS8FOMB   (  ®  DS }ÚT˜Þ‹ B
+Š
+!ƒPP EAÈ•!Ãp.@º å(r"÷ï1ˆ@H(„D S!p„ _
+)À  §"ˆÒ² Ý|Ð!´È•
+°%Ÿ€’ˆ"Ùx²Hæa‘ƒ@‰J'®lâjå<¢$8ªƒˆ»\’ Í“õ9hdl<˜eŠƒò "9cEÛëDdr Tj˜žZóÓDN­é!’I
+jìžÖIy¦Ê0	<
+†Æ	Ê‚ƒ¢ OÂs,^€ð“³@Œ>xäÇŒQ¸€çs‘ãjŒ£ˆ|8ítãØé.`=ÏY ÿÿÁðŽ#BX–&‘Àîh¼Há ¥B0	°uh7Ö®B‰tqBD‰Ô@QjCLgÃfÜ1·ýAaãÆïAÖÙÓ«‚	<é7„§ƒ£8Ú¨1š#e«Ö¹Â‘àQçŸ<´Ãö`ÏÒC8‚g†GÝ|ðïP—ƒG6ép˜ñzîžºÏü¼áÁáFz2GVª ³× %|à`w§ Xþ P#3´ÇûÞaÈ'…Ãbbt<à¿<ixúž¯	†•ñ bèW…Ã8
+Ÿ@|ã˜<8ÿÿ	käôœâó?\ø<ÁN§ñàáœ•Àâu‚>ì¡y/o&ˆöÆáÎpN1Àê0‡	àä}Ì93ÜqlÃà‘-€°8O|PnÀûÿ?Ü ×óîø ÷bÁ7À`H4o51^mBDx¨y·1R¼Çv9‹(Å¡éb#Ê›aßt*R„0/!oÀ,é¥¢Ï7€—ÿÿñð0SÀvs`÷øçÀ‘G€"Ï Ÿ‰¨@*Í,ã¬Nˆ\…D@hd†ó!Ñ`ñùÀg
+ŸœøÿÿäžƒÉC,DŸ8œÏ,ÎG~€äG%p	<4€È÷ŸžØ	| `ð<Ú¨èÑÆÃãGÏçà(	pï¢O9°&rÔ}"è3æ”œ‚õ@
+Ú“‚Ï
+>|Áÿÿ¾àÌëeÍŽ8gqºïø)0r"EÁøD
+Ø¼`¯O"0ÎÏX0U§øRõÆáÉê5êË`/†yÅòé*Ä–ÏZÑB„ŒìëUÆG*ƒ-R„G,üÿÿˆ	R€*ÇHýi½ðx°ÿÿs ø1À`À01ÀCðÉôÇøãàŸ&P˜)
+Æ'RÀÙÿÿp†ã
+øo3>„ú|ã©!^lÞÔ^	^ßÙµæõÝ§‚'Ñ!£¼ä$Äë¨ƒ‰x
+O;7àu èñÿ?ƒ{
+ìs
+à)ù‰”¦>‘¢iª`!˜þDJÎM¢äC£pÎz ¡ tCú¬âÉ<"zX>Tú®âsˆ¿ü?ãã(¯æ¼‚ói£ë>’ÿÿü¸¾Ã(ÈÑyøÉ¢âN–‚x²Ž2YôL|»ðŒÞ»|ƒe7Yx—¾ÉÂ‹/#à»É^Gã³;…øºK¡MŸZýÿ”©Q¦A­>•3v¡°¸•´,Ë@h€[©@ú¤Sùj	ÈbW%ËTÑÈÝÂ r¼O@Iäc¬ô% Ë¦ å:baAhÀ_µ†à´ r2-@,'ˆ€üÿ[‚FTWMI3_HIDAÐ_UID
+_WDG?
+<y6MžtyD›Æ&ý%ðABièÒ…Z6ÎJ¤ÓÍi+˜ AC!fÕÑ²ð  É)BC CWMABŒj
+ ASS0‹j
+ASS1Œj
+ASS2[#\/_SB_WMI1MWMIÿÿpASS0\WASBpASS1\WASIpASS2\WASD\WMIS
+
+ p\WASS`['\/_SB_WMI1MWMI¤`@WMACŒj
+ ASS0‹j
+ASS1[#\/_SB_WMI1MWMIÿÿpASS0\WASBpASS1\WASI\WMIS
+ip\WASS`['\/_SB_WMI1MWMI¤`WQBCO@
+FOMB   ú  2  DS }ÚT˜Ãˆ BŠ
+!ƒPP EAÈ•!Ãp.@º å(r"÷ï1ˆ@H(„D S!p„ _
+)À  §"ˆÒ² Ý|Ð!´X!Ò14)@¢ ‹dÃÈ6"™‡E%f(à²‰«AœL”óˆ’à¨"BìrH€4OLÖç ‘±ð”@X u*àz
+C=€HÎXQÀö:ê@™$8Ô0=µæ'¦‰œZÓC$“6ÔØ=­“òL#”ax”u" å€'á9/@øˆÉ´Mà3‡yÌØ…x>Ç9î¡Æ8ŠÈG`$Å+‰€øvpp‘üÿG‰*ÆÛ n^	ŠJ„<
+°z( '@ã8Ó™ m¼	0'À†€‚œY” B1ˆ
+CÊ;AŒÊ t‚=x˜Ö@t‰ðÈ±G ŸÎéÞLày¿$jØŽã(XÐ3B@	udðáÀ#;rÏð‚Â<6<xìºàs€	x×€šóÓ›r8Ìp=ýp'pÒd³óàpã<™#+U€Ù‚N>s°»ÀùôIä52Cû,ðêaÈ‡…ÃbbÏt<à?%<lxúž¯	¢=€áÿ9œ„'v€ÀH€Éùw(ðø %ÎÑJg†<¹€-û@ç‘W€	t8± MÓÓk >87‰’ŒÂ9ëy„‚ÐA ää €:ªø<rª=ž”Gá«Š!>Oxô>)ðïŒ¯F·šã
+
+ÌgNP×mú)à<”w’Çõ@ä›O!þÿOÃÃ€ÑŒÎÃOw²Ä“u”É¢gâ«…'tJAÎÑöUÖù ä‹§a8O–Ãy²|,¾jÀ-– ÀÙ‚oTôFäáñËçóŒp”o8ŒÇÑ—#X9ißN6èK»¿ˆ&†Á"-EEa|Å‚ýÿ¿b4‡ƒ—6k8™ÓñHNÆþê©ÊÓŠòdõzåc–¡ÎàË·<O!Jœ—-vÇ2HP#?h1”àñÞ± oÿÿ;`üÁ	|ÇÅ~7èJEîX(«¹cAœ(æŠ†ÿÿàuÀ+hþÿW,ð^Ž€ß	Ñw
+~š¶¢»”¾ù°,Ò£oIá|Û Øòÿ¿m L¿oÀO¡MŸZ5(S£LƒZ}*5fLÉÁÎw*lešcÐÇ&Q"YýoB@Î" +XšÀÿØ(@¢„)}“	Ô²Aôÿ?BÙ b‚Ad‘>€˜bYÝ£@@Ö
+" ÿÿB
+\/_SB_PCI0LPC_EC__HKEY[BFWM -MHCFp\BFWCh`pzh
+ \/_SB_PCI0LPC_EC__BSWR¤`AMHPFRETB
+% ;’”‡h
+%ph\BFWB "\BFWP\/_SB_PCI0LPC_EC__CHKS\BFWLp\BFWBRETB¤RETB$MHIFRETB
+
+\BFWGhp\BFWBRETB¤RETBMHDM\BDMChJ\/_SB_PCI0LPC_EC__HKEYPSSG¤\PSIF
+ 
+ PSSS¤\PSIF
+hPSBS¤\PSIF
+hBICG¤\PSIF
+hBICS¤\PSIF
+hBCTG¤\PSIF
+hBCCS¤\PSIF
+hBCSG¤\PSIF
+hBCSS¤\PSIF
+hBDSG¤\PSIF
+	hBDSS¤\PSIF
+
+hJ
+\/_SB_PCI0LPC_EC__HKEYGILN ¤}
+\ILNF =SILN “
+hp
+\ILNFp
+ BBLS¤
+ ¡ “
+hp
+ \ILNFp
+BBLS¤
+ ¡¤
+AGLSI  "\H8DR¤r
+\/_SB_PCI0LPC_EC__HPLD ¡ {\RBEC
+F
+ ¤
+¡¤
+J\/_SB_PCI0LPC_EC__HKEYGDLN ¤}
+\PLUX /SDLN “
+hp
+\PLUX¤
+ ¡ “
+hp
+ \PLUX¤
+ ¡¤
+[‚H%EPC__HID%Ô_STR1
+.E n c l a v e   P a g e   C a c h e   1 . 0   _MLS;8
+en 1
+.E n c l a v e   P a g e   C a c h e   1 . 0   RBUF3
+0Š+                                         y H_CRS RBUF
+EMINRBUF
+EMAXRBUF
+&ELENp\._PR_EMNAEMINp\._PR_ELNGELENtr\._PR_EMNA\._PR_ELNG 
+EMAX¤RBUF@_DSM_T_0 BUFX/	   €   €   €   €   €   €   €   €   € J“h
+¬ÆžýsBš?“#'^ N
+“
+ ™i ¢B
+p™j _T_0 “_T_0
+ ¤
+¡F C“_T_0
+pSEC0ˆBUFX
+  pSEC1ˆBUFX
+ pSEC2ˆBUFX
+ pSEC3ˆBUFX
+ pSEC4ˆBUFX
+ pSEC5ˆBUFX
+ pSEC6ˆBUFX
+ pSEC7ˆBUFX
+ pSEC8ˆBUFX
+ ¤BUFX¥¤
+ ¤
+ ¤
+ _STA  ’“\._PR_EPCS
+ ¤
+¤
+ DO\/_SB_PCI0EXP3PXSX[€RPXX
+ 
+[RPXX VDID [€FLDR
+D
+[FLDRDCAP DCTRSPLX:
+    €   €   €   €   €   €   €   €   €GSPLCp\DOM1ˆƒˆSPLX
+ 
+  p\LIM1ˆƒˆSPLX
+ 
+ p\TIM1ˆƒˆSPLX
+ 
+ p\DOM2ˆƒˆSPLX
+ 
+  p\LIM2ˆƒˆSPLX
+ 
+ p\TIM2ˆƒˆSPLX
+ 
+ p\DOM3ˆƒˆSPLX
+ 
+  p\LIM3ˆƒˆSPLX
+ 
+ p\TIM3ˆƒˆSPLX
+ 
+ ¤SPLX[„OWRST  _STA ADBG
+PXSX _STA _ON_ ADBG
+PXSX _ON _OFF ADBG
+PXSX _OFF 4_RST ADBG
+PXSX _RST  {DCAP    pDCTR`}` €`p`DCTR_PRRWRSTWANX(
+    €   €   €   €   €   €HWANDp
+ ˆƒˆWANX
+ 
+  p\TRD0ˆƒˆWANX
+ 
+ p\TRL0ˆƒˆWANX
+ 
+ p
+ˆƒˆWANX
+ 
+  p\TRD1ˆƒˆWANX
+ 
+ p\TRL1ˆƒˆWANX
+ 
+ ¤WANXWRDX
+ 
+   € €
+   € €HWRDDp\WDM1ˆƒˆWRDX
+ 
+  p\CID1ˆƒˆWRDX
+ 
+ p\WDM2ˆƒˆWRDX
+ 
+  p\CID2ˆƒˆWRDX
+ 
+ ¤WRDXWRDY
+ 
+
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€
+€M
+WRDSp\STXEˆƒˆWRDY
+ 
+ p\STX0ˆƒˆWRDY
+ 
+ p\STX1ˆƒˆWRDY
+ 
+ p\STX2ˆƒˆWRDY
+ 
+ p\STX3ˆƒˆWRDY
+ 
+ p\STX4ˆƒˆWRDY
+ 
+ p\STX5ˆƒˆWRDY
+ 
+ p\STX6ˆƒˆWRDY
+ 
+ p\STX7ˆƒˆWRDY
+ 
+	 p\STX8ˆƒˆWRDY
+ 
+
+ p\STX9ˆƒˆWRDY
+ 
+ ¤WRDYAWIST_T_0  N[VDID ¢DpVDID_T_0 “_T_0†€Z	¤
+¡G “_T_0†€[	¤
+¡E “_T_0†€e1¤
+¡C
+ “_T_0†€f1¤
+¡A	 “_T_0†€±¤
+¡O “_T_0†€²¤
+¡M “_T_0†€³¤
+¡K “_T_0†€´¤
+¡I “_T_0†€ó$¤
+¡7 “_T_0†€ô$¤
+¡& “_T_0†€õ$¤
+¡ “_T_0†€ö$¤
+¡¤
+ ¥¡¤
+ K\._SB_PCI0PCIG
+Ð7ÉåS5zM‘êMÃCMEPCID 7“hPCIG /’•i
+ “j
+ ¤
+ “j
+¤
+ “j
+	¤PÃÿÿPÃÿ¤
+ )\._SB_PCI0PCIC	 “ECR1
+ 
+“hPCIG¤
+¤
+ PNVB˜Ìü×PNVL[€PNVA PNVBPNVL[M>PNVARCRV PCHSPCHGRPA1 RPA2 RPA3 RPA4 RPA5 RPA6 RPA7 RPA8 RPA9 RPAA RPAB RPAC RPAD RPAE RPAF RPAG RPAH RPAI RPAJ RPAK NHLA@NHLL ADFM SBRG GPEM G2L0 G2L1 G2L2 G2L3 G2L4 G2L5 G2L6 G2L7 G2L8 G2L9 PML1PML2PML3PML4PML5PML6PML7PML8PML9PMLAPMLBPMLCPMLDPMLEPMLFPMLGPMLHPMLIPMLJPMLKPNL1PNL2PNL3PNL4PNL5PNL6PNL7PNL8PNL9PNLAPNLBPNLCPNLDPNLEPNLFPNLGPNLHPNLIPNLJPNLKU0C0 U1C0 ADPM XHPCXRPCXSPCXSPAHPTB HPTESMD0SMD1SMD2SMD3SMD4SMD5SMD6SMD7SMD8SMD9SMDASIR0SIR1SIR2SIR3SIR4SIR5SIR6SIR7SIR8SIR9SIRASB00 SB01 SB02 SB03 SB04 SB05 SB06 SB07 SB08 SB09 SB0A SB10 SB11 SB12 SB13 SB14 SB15 SB16 SB17 SB18 SB19 SB1A GPENSGIRNIT1NIT2NIT3NPM1NPM2NPM3NPC1NPC2NPC3NL11NL12NL13ND21ND22ND23ND11 ND12 ND13 NLR1NLR2NLR3NLD1 NLD2 NLD3 NEA1NEA2NEA3NEB1NEB2NEB3NEC1NEC2NEC3NRA1NRA2NRA3NMB1 NMB2 NMB3 NMV1 NMV2 NMV3 NPB1 NPB2 NPB3 NPV1 NPV2 NPV3  SXRB SXRS CIOECIOITAENTIRQXWMB EMH4EMDSCSKUITA0ITA1ITA2ITA3ITS0ITS1ITS2ITS3F±\_SB_GCOMC*  ¯   ¯   ®   ®   ®   ¬   ¬   ­ 4
+  ¯   ¯   ®   ®   ®   ®   ®   ®   ¬   ­ GPPG,
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PCFG> À À€ À  
+ À À€è¨h  HOWN,
+Ð
+Ô
+Ð
+Ô
+Ø
+Ð
+Ô
+Ð
+
+Ð
+Ô
+Ð
+Ô
+Ø
+Ü
+à
+ä
+Ð
+ÐPOWN,
+ 
+0
+ 
+0
+@
+ 
+0
+ 
+
+ 
+,
+ 
+,
+8
+@
+L
+X
+ 
+ GPEO>@D@DH@D@ 
+@D@DHLPT@@GPES
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ RXEVM
+ÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿÿGNUMpGNMBhapGGRPhb¤rawb
+  LINUM “PCHS
+p
+ `¡p
+`pGNMBhapGGRPhbp
+ c¢•cbrƒˆƒˆGPPG` c aauc¤r
+…a
+`  GGRP	z{h  ÿ  
+`¤`
+GNMB	¤{hÿÿ =GGPEpGGRPh`pGNMBhap{zGPEMw`
+  
+ b “b
+ ¤
+o¡¤rwtb
+ 
+  a =GADR “PCHS
+p
+ `¡p
+`prƒˆƒˆGCOM` h SBRG apƒˆƒˆi` h b¤rab CGPC0	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0 TEMP ¤TEMPDSPC0
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0 TEMP piTEMPGGPC1	pGGRPh`pGNMBhaprrGADR`PCFGwa
+  
+ b[€PDW1 b
+[PDW1 TEMP ¤TEMPHSPC1
+pGGRPh`pGNMBhaprrGADR`PCFGwa
+  
+ b[€PDW1 b
+[PDW1 TEMP piTEMPHSRXO
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  TEMP piTEMPGGGIV	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  TEMP ¤TEMPEGGOV	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[
+PDW0 TEMP ¤TEMPFSGOV
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[
+PDW0 TEMP piTEMPGGGII	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  TEMP ¤TEMPHSGII
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  TEMP piTEMPGGPMV	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  
+TEMP ¤TEMPHSPMV
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  
+TEMP piTEMP?GHPO	pGGRPh`pGNMBha[€PREG GADR`HOWN
+[PREG TEMP ¤{zTEMPa 
+ JSHPO
+pGGRPh`pGNMBha[€PREG GADR`HOWN
+[PREG TEMP }{TEMP€y
+a   yia TEMPFGGPO	pGGRPh`pGNMBhaprGADR`POWNwza
+ 
+  b[€PREG b
+[PREG TEMP ¤{zTEMPw{a
+ 
+  
+ HSGRA
+pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  TEMP piTEMPLSGWP
+pGGRPh`pGNMBhaprrGADR`PCFGwa
+  
+ b[€PDW0 b
+[PDW0  
+TEMP piTEMP@UGP1	[€GPPX GADRhGPEO
+$[GPPX STSX  @GENX  %“{zGPEMwh
+  
+ 
+ p{STSXGENX ˆGPESh ¡p
+ ˆGPESh #UGPS “PCHS
+p
+
+`¡p
+`¢	`v`UGP1`?CGP1
+ 8“{zGPEMwh
+  
+ 
+ [€GPPX GADRhGPEO
+[GPPX STSX piSTSX(CGPS “PCHS
+p
+
+`¡p
+`¢`v`CGP1`ÿÿÿÿHCGLS “PCHS
+p
+
+`¡p
+`¢M	`v` “`
+	pG2L9a¡E “`
+pG2L8a¡F “`
+pG2L7a¡G “`
+pG2L6a¡H “`
+pG2L5a¡I “`
+pG2L4a¡: “`
+pG2L3a¡, “`
+pG2L2a¡ “`
+pG2L1a¡ “`
+ pG2L0a¡ŸCGP1`aNCAGS	pGGRPh`pGNMBha H“{zGPEMw`
+  
+ 
+ [€GPPX GADR`GPEO
+[GPPX STSX pSTSXcy
+ab}STSXbSTSX$ISMEpGGRPh`pGNMBha¤{zƒˆGPES` a 
+ NDIPI	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  	RDIS RCFG  D’“RCFG
+pƒˆRXEV` c{c€y
+wa
+   c}cyRCFGwa
+  ˆRXEV` p
+RCFGp
+RDISBUIPI	pGGRPh`pGNMBhaprGADR`PCFGwa
+  b[€PDW0 b
+[PDW0  	RDIS RCFG p{zƒˆRXEV` wa
+  
+ c ’“c
+p
+ RDISpcRCFGSPTH
+SPTL
+%PCHV  
+“PCHS
+¤SPTH 
+“PCHS
+¤SPTL¤
+ B&\._SB_PCI0[‚B	PRRE_HIDAÐ_UID
+PCHRESV _STA
+L_CRSBUF0J
+V†	    ý  ¬ †	   ­ý   †	   °ý  P †	    þ   †	  `þ `  †	  Ðþ 0< †	   Aþ  ? y ¤BUF0[‚HIOTR_HIDAÐ_UID
+IoTraps I_CRS p
+y `BUF0
+
+G    ÿy BUF1
+
+G    ÿy BUF2
+
+G    ÿy BUF3
+
+G    ÿy ‹BUF0
+AMI0‹BUF0
+AMA0‹BUF1
+AMI1‹BUF1
+AMA1‹BUF2
+AMI2‹BUF2
+AMA2‹BUF3
+AMI3‹BUF3
+AMA3pITA0AMI0pITA0AMA0pITA1AMI1pITA1AMA1pITA2AMI2pITA2AMA2pITA3AMI3pITA3AMA3 “ITS0
+„`BUF0apa` “ITS1
+„`BUF1apa` “ITS2
+„`BUF2apa` “ITS3
+„`BUF3apa`¤`[‚FPPMC_ADR  _DSM PCICh¤PCIDhijk¤
+ [€PMCB
+  [PMCB VDID  @ ACBA 0 PWBAK+\ 1PCRR
+ryh
+ i`rSBRG``[€PCR0 `
+[PCR0DAT0 ¤DAT0JPCRWryh
+ i`rSBRG``[€PCR0 `
+[PCR0DAT0 pjDAT0[€PCR1 rSBRG4Ç  
+[PCR1DAT1 pDAT1aPCROpPCRRhi`p}`j aPCRWhiaPCRApPCRRhi`p{`j aPCRWhiaPCAOpPCRRhi`p}{`j k aPCRWhiaPMBV
+ 0PMBS  $“PMBV
+ py\/_SB_PCI0PPMCACBA
+ PMBV¤PMBVPWRV
+ 0PWRM  $“PWRV
+ py\/_SB_PCI0PPMCPWBA
+ PWRV¤PWRVTCBV
+ 0TCBS  $“TCBV
+ py\/_SB_PCI0SMBUTCOB
+ TCBV¤TCBV[€PMIOPMBS
+€[PMIO PBSS G GPEC[€PMLPr\PMBS
+€ 
+ [6PMLP @ GE08 GE17 GE35 	GE45 GE48 GE51 L[?PMLPA GS08 GS17 GS35 	GS45 GS48 GS51 GS54GS55 H[€TCBATCBS
+[TCBA   	CPSC[€PWMR \PWRM [PWMR  @p DWLEHWLE[€PMST PWRV
+€['PMST @ USBP  PMFS MPMC  UWAB'\._SB_PCI0LTRN
+ OBFN
+ LMSL
+ LNSL
+ \_S0_
+
+ 
+ 
+ 
+ \_S3_
+
+
+
+ 
+ \_S4_
+
+
+
+ 
+ \_S5_
+
+
+
+ 
+ A&\_PTS #•OSYSÜp
+\/_SB_PCI0LPC_EC__CAMW¡p
+ \/_SB_PCI0LPC_EC__CAMWphP80Hp
+` “h\SPS_p
+ ` ‘“h
+ ’•h
+p
+ ` A`ph\SPS_\/_SB_PCI0LPC_EC__HKEYMHKE
+  \/_SB_PCI0LPC_EC__KBLT\UCMS
+
+ G“h
+p\/_SB_PCI0LPC_EC__HFNI\FNIDp
+ \/_SB_PCI0LPC_EC__HFNIp
+ \/_SB_PCI0LPC_EC__HFSP K“h
+\VVPD
+\TRAPp\/_SB_PCI0LPC_EC__AC___PSR\ACST 7“\FNWK
+  \H8DRp
+ \/_SB_PCI0LPC_EC__HWFN¡\MBEC
+2
+ï
+  .“h
+ VDSPp SHA1\/_SB_SLPB_PSW
+ \TRAP\AWON
+ “h
+\TRAP\AWON
+  ’•h
+p
+ \/_SB_PCI0LPC_EC__HWLB¡p
+\/_SB_PCI0LPC_EC__HWLB  ’•h
+p
+\/_SB_PCI0LPC_EC__HCMU ’“h
+\/_SB_PCI0LPC_EC__HKEYWGPSh #[\/_SB_TPM_PTS_ \/_SB_TPM_PTS_hWAKI
+ 
+ DZ\_WAKyh
+P80HADBG
+_WAK  ‘“h
+ ’•h
+¤WAKIp
+ \SPS_p
+ \/_SB_PCI0LPC_EC__HCMU\/_SB_PCI0LPC_EC__EVNT
+\/_SB_PCI0LPC_EC__HKEYMHKE
+\/_SB_PCI0LPC_EC__FNST\UCMS
+
+p
+ \LIDB "“h
+p\/_SB_PCI0LPC_EC__HFNI\FNID B“h
+\NVSS
+ p\/_SB_PCI0LPC_EC__AC___PSR\PWRS 
+\OSC4\PNTF
+ :’“\ACST\/_SB_PCI0LPC_EC__AC___PSR\/_SB_PCI0LPC_EC__ATMC  \SCRMp
+\/_SB_PCI0LPC_EC__HFSPp
+ \IOENp
+ \IOST E“\ISWK
+ :\/_SB_PCI0LPC_EC__HKEYDHKC\/_SB_PCI0LPC_EC__HKEYMHKQp` 5\VIGDp\/_SB_LID__LID\/_SB_PCI0GFX0CLID \WVIS\VBTD¡0 .\WVISp\/_SB_LID__LID\/_SB_PCI0GFX0CLID\VBTD\VCMS
+\/_SB_LID__LID\AWON
+  \CMPR†\._SB_SLPB
+p
+ \CMPR ){\/_SB_PCI0LPC_EC__HWAK
+ †\._SB_LID_
+ ){\/_SB_PCI0LPC_EC__HWAK
+ †\._SB_LID_
+ N“h
+\NVSS
+ p
+ \/_SB_PCI0LPC_EC__HSPAp\/_SB_PCI0LPC_EC__AC___PSR\PWRS 
+\OSC4\PNTF
+\/_SB_PCI0LPC_EC__ATMC  \SCRMp
+\/_SB_PCI0LPC_EC__HFSP 1’\NBCF \VIGD\/_SB_PCI0LPC_EC__BRNS¡\VBRC\BRLVp\AUDC
+ 
+ `{`
+` “`
+ \._SB_SGOV
+ 
+ p
+‘P80H¡\._SB_SGOV
+ 
+p
+’P80Hp
+ \IOENp
+ \IOST E“\ISWK
+ :\/_SB_PCI0LPC_EC__HKEYDHKC\/_SB_PCI0LPC_EC__HKEYMHKQ€`\/_SB_PCI0LPC_EC__BATWh\/_SB_PCI0LPC_EC__HKEYWGWKh†\._TZ_THM0
+€\VSLD\/_SB_LID__LID )\VIGDp\/_SB_LID__LID\/_SB_PCI0GFX0CLID¡+ )\WVISp\/_SB_LID__LID\/_SB_PCI0GFX0CLID G•h
+ @‘{\RRBF
+ {\/_SB_PCI0LPC_EC__HWAK
+ yh
+`p} ` `\/_SB_PCI0LPC_EC__HKEYMHKQ` A“h
+p
+ `p\CSUM
+ a ’“a\CHKCp
+`pa\CHKCp\CSUM
+a ’“a\CHKEp
+`pa\CHKE 
+`†\_SB_
+  
+‘“h
+“h
+p \RRBFp
+ \/_SB_PCI0LPC_EC__HWAKyh
+b}b
+bpbP80H¤WAKIM\_SI_E_SST G“h
+ \/_SB_PCI0LPC_EC__LED_
+ 
+ \/_SB_PCI0LPC_EC__LED_
+
+
+ \/_SB_PCI0LPC_EC__LED_
+
+  G“h
+ %‘\SPS_\WNTF\/_SB_PCI0LPC_EC__BEEP
+\/_SB_PCI0LPC_EC__LED_
+ 
+€ G“h
+\/_SB_PCI0LPC_EC__LED_
+ 
+À\/_SB_PCI0LPC_EC__LED_
+
+
+À\/_SB_PCI0LPC_EC__LED_
+
+À K
+“h
+ "”\SPS_
+\/_SB_PCI0LPC_EC__BEEP
+¡? "“\SPS_
+\/_SB_PCI0LPC_EC__BEEP
+¡\/_SB_PCI0LPC_EC__BEEP
+ 	“\SPS_
+¡\/_SB_PCI0LPC_EC__LED_
+ 
+€\/_SB_PCI0LPC_EC__LED_
+ 
+À 9“h
+\/_SB_PCI0LPC_EC__BEEP
+\/_SB_PCI0LPC_EC__LED_
+ 
+ÀI\_GPE@	_L43 p
+
+P80Hp\/_SB_PCI0LPC_EC__HWAK`p`\RRBF["
+
+ {`
+  {`
+ †\._SB_LID_
+ {`
+ †\._SB_SLPB
+ {`
+ †\._SB_SLPB
+ {`
+@  {`
+€ †\._SB_SLPB
+C_L69  C\/_SB_PCI0EXP1PSPXp
+\/_SB_PCI0EXP1PSPXp
+\/_SB_PCI0EXP1PMSX†\/_SB_PCI0EXP1
+ C\/_SB_PCI0EXP2PSPXp
+\/_SB_PCI0EXP2PSPXp
+\/_SB_PCI0EXP2PMSX†\/_SB_PCI0EXP2
+ C\/_SB_PCI0EXP3PSPXp
+\/_SB_PCI0EXP3PSPXp
+\/_SB_PCI0EXP3PMSX†\/_SB_PCI0EXP3
+_L61 
+_L62 p
+ GPECG_L66  '\/_SB_PCI0GFX0GSSE\/_SB_PCI0GFX0GSCI¡p
+\/_SB_PCI0SMBUCPSCCI\/_SB_PCI0LPC_EC__HKEYHMHQT M\WNTF\TATC “h
+ p\TATC`¤`¡@
+ K“h
+p\TDFA`r`y\TDTA
+ `r`y\TDFD
+ `r`y\TDTD
+ `r`y\TNFT
+ `r`y\TNTT
+ `¤`¡A 2“h
+p\TCFA`r`y\TCTA
+ `r`y\TCFD
+ `r`y\TCTD
+ `¤`¡ “h
+¡ “h
+p\TATW`¤`¡£¤
+ LMHAT A\WNTF\TATCp{h
+ÿ ` 
+’ATMV`¤
+ p{zh
+ 
+ÿ ` 
+’ATMV`¤
+ p{h
+ \TCFAp{zh
+ 
+ \TCTAp{zh
+ 
+ \TCFDp{zh
+ 
+ \TCTDATMC B{\._PR_CFGD  p\FTPSa {h    p
+\FTPS¡	p
+ \FTPS \FTPSa  ‘\OSPX\CPPX\PNTF
+€p\SCRMb +{h    p
+\SCRMp
+\/_SB_PCI0LPC_EC__HFSP¡#p
+ \SCRMp
+€\/_SB_PCI0LPC_EC__HFSPp\ETAUc {h    p
+\ETAU¡	p
+ \ETAU¤
+¤
+ BMHGT G\WNTF\TATCp   ` {\._PR_CFGD  }`   ` \SCRM}`   ` \ETAU}`   ` \FTPS}`   `r`y\TSFT
+ `r`y\TSTT
+ `p{h
+ÿ a ’ATMVa}`ÿÿ`¤`p{h
+ a 
+“a
+ r`\TIF0`¡& 
+“a
+r`\TIF1`¡ 
+“a
+r`\TIF2`¡r`
+ÿ`p{zh
+ 
+ a “a
+ r`y\TIT0
+ `¡2 “a
+r`y\TIT1
+ `¡ “a
+r`y\TIT2
+ `¡
+r`y
+ÿ
+ `¤`¤
+ LATMVp{h
+ ap\TNFT` ’•a`¤
+ p{zh
+ 
+ bp\TNTT` ’•b`¤
+  \TATL ab ¤
+ ¤
+CMHCTp
+ ` \SPENp\LWST`u`y`
+`p
+aya
+a G“hÿÿÿÿ}a\TPCRa >\SPEN}`\PPCR` ’\._PR_CFGD   }a
+€a ’\._PR_CFGD   }a
+@a¡}a
+Àa¡F ;‘\OSPX\CPPX\SPEN{h  ÿ bzb
+b}`b` b\PPCR pb\PPCA\PNTF
+€ '\WVIS{h
+b}aba b\TPCR pb\TPCA\PNTF
+‚y`
+`}`a`¤`F\._SB_PCI0IPL1SADBGs
+PL1S Value= ˜h  ADBGs
+PL1S PTDP = ˜\/_SB_PCI0PTDP  ADBGs
+PL1S CTNL = ˜\/_SB_PCI0CTNL   !“\/_SB_PCI0PTDPh\/_SB_PCI0CTCN¡A
+ M”\/_SB_PCI0PTDPh 9”\._PR_CLVL
+ *’•\/_SB_PCI0CTNL
+ph\PT1D\/_SB_PCI0CTCD¡@ M•\/_SB_PCI0PTDPh 9”\._PR_CLVL
+ *’•\/_SB_PCI0CTNL
+ph\PT2D\/_SB_PCI0CTCUB\/_SB_PCI0LPC_EC__LATMC  D\WNTF\TATC OHPACp\TCFA`p\TCTAap}ya
+ ` bbATMXcpbATMX “\TCTA
+ p\TCR0\TCRTp\TPS0\TPSV¡# “\TCTA
+p\TCR1\TCRTp\TPS1\TPSV¡¡Kp\TCFD`p\TCTDap}ya
+ ` bbATMXcpbATMX “\TCTD
+ p\TCR0\TCRTp\TPS0\TPSV¡# “\TCTD
+p\TCR1\TCRTp\TPS1\TPSV¡ =c :\/_SB_PCI0LPC_EC__HKEYDHKC\/_SB_PCI0LPC_EC__HKEYMHKQ0`†\._TZ_THM0
+C\_TZ_[…N
+THM0
+_CRT ¤C2K_
+I_TMP  B\H8DRp\/_SB_PCI0LPC_EC__TMP0`p\/_SB_PCI0LPC_EC__TSL2ap\/_SB_PCI0LPC_EC__TSL3b¡$p\RBEC
+x`p{\RBEC
+Š
+ ap{\RBEC
+‹
+ b 	“`
+€p
+0` 
+b\TSDL¤\TCRT +’\/_SB_PCI0LPC_EC__HKEYDHKC 
+a\TSDL¤\TCRT¤C2K_`+C2K_rwh
+
+ ¬
+` ’”`¬
+p¸` ”`¬p¸`¤`L\/_SB_PCI0LPC_EC__F_Q40 †\._TZ_THM0
+€ \H8DRp\/_SB_PCI0LPC_EC__TSL2a¡p{\RBEC
+Š
+ a =\/_SB_PCI0LPC_EC__HKEYDHKC  a\/_SB_PCI0LPC_EC__HKEYMHKQ"` VIGD£¡\VTHR F{\._PR_CFGD
+  ‘\OSPX\CPPX\PNTF
+€¡1p{\/_SB_PCI0LPC_EC__TSL0
+w b 	b\STEP
+	¡\STEP
+
+
+_PICph\GPIC[€SMI0
+²
+[SMI0APMC[(MNVS  €àCMD_ERR_ PAR0 PAR1 PAR2 PAR3 [MSMI MSMI_
+[#MSMIÿÿphCMD_p
+ERR_piPAR0pjPAR1pkPAR2plPAR3p
+õAPMC¢“ERR_
+["
+p
+õAPMCpPAR0`['MSMI¤`RPCI¤SMI_
+ 
+ h
+ 
+ WPCISMI_
+ 
+hi
+ MPCISMI_
+ 
+hijRBEC¤SMI_
+ 
+h
+ 
+ WBECSMI_
+ 
+hi
+ MBECSMI_
+ 
+hijRISA¤SMI_
+ 
+h
+ 
+ WISASMI_
+ 
+hi
+ MISASMI_
+ 
+hijVEXP SMI_
+
+ 
+ 
+ 
+ VUPSSMI_
+
+h
+ 
+ VSDSSMI_
+
+hi
+ VDDC SMI_
+
+
+ 
+ 
+ VVPDSMI_
+
+h
+ 
+ VNRSSMI_
+
+h
+ 
+ GLPW ¤SMI_
+
+
+ 
+ 
+ VSLDSMI_
+
+h
+ 
+ VEVT¤SMI_
+
+h
+ 
+ VTHR ¤SMI_
+
+	
+ 
+ 
+ VBRCSMI_
+
+
+h
+ 
+ VBRG ¤SMI_
+
+
+ 
+ 
+ VCMS¤SMI_
+
+hi
+ VBTD ¤SMI_
+
+
+ 
+ 
+ VHYB¤SMI_
+
+hi
+ VDYN¤SMI_
+
+hi
+ UCMS¤SMI_
+h
+ 
+ 
+ BHDP¤SMI_
+
+ hi
+ STEPSMI_
+h
+ 
+ 
+ TRAP SMI_
+
+ 
+ 
+ 
+ CBRI SMI_
+
+
+ 
+ 
+ BCHK ¤SMI_
+
+
+ 
+ 
+ BYRS SMI_
+
+
+ 
+ 
+ LCHK¤SMI_
+
+h
+ 
+ BLTH¤SMI_
+h
+ 
+ 
+ PRSM¤SMI_
+
+ hi
+ ISOC¤SMI_
+
+h
+ 
+ EZRC¤SMI_
+
+h
+ 
+ WGSV¤SMI_
+	h
+ 
+ 
+ BSWTT JSMI_
+
+
+h
+ 
+  :\/_SB_PCI0LPC_EC__HKEYDHKC\/_SB_PCI0LPC_EC__HKEYMHKQ0`TSDL ¤SMI_
+
+
+
+ 
+ 
+ FLPF¤SMI_
+
+
+h
+ 
+ CSUM¤SMI_
+h
+ 
+ 
+ NVSS¤SMI_
+h
+ 
+ 
+ WMIS¤SMI_
+hi
+ 
+ AWON¤SMI_
+h
+ 
+ 
+ /PMONp‡h`TSTR`phTSTRpTSTR\DBGBSMI_
+i
+ 
+ 
+ UAWS¤SMI_
+h
+ 
+ 
+ BFWC¤SMI_
+
+ h
+ 
+ BFWP ¤SMI_
+
+
+ 
+ 
+ BFWL SMI_
+
+
+ 
+ 
+ BFWGSMI_
+
+h
+ 
+ BDMCSMI_
+
+h
+ 
+ PSIF¤SMI_
+
+hi
+ FNSC¤SMI_
+
+hi
+ AUDC¤SMI_
+
+hi
+ SYBC¤SMI_
+
+hi
+ KBLS¤SMI_
+
+	hi
+ UCCT¤SMI_
+
+h
+ 
+ UBIS¤SMI_
+
+ h
+ 
+ DIEH¤SMI_
+
+ h
+ 
+ OUTPSMI_
+hi
+ 
+ JSCMPp‡h` ’“`‡i¤u`STR1`STR2`phSTR1piSTR2p a¢"•a`pƒˆSTR1a bpƒˆSTR2a c ’“bc¤ua¤ SPS_
+ OSIF
+ WNTF
+ WXPF
+ WVIS
+ WIN7
+ WIN8
+ WSPV
+ LNUX
+ H8DR
+ MEMX
+ ACST
+ FMBL
+FDTP
+FUPS
+FNID
+ RRBF
+ NBCF
+ \/_SB_PCI0XHCIUPWR
+ USPP
+ L\/_SB_PCI0XHCIURTHPS0Xp
+ \/_SB_PCI0XHCIUSPPB
+PS2X[€XHCM {™MEMB   ÿÿÿÿÿÿ  [.XHCM XHCV €>HP01 OHP02 OOSP00 OSP01 “XHCVÿÿ¤  9“HP01
+ “SP00
+ }\/_SB_PCI0XHCIUSPP
+\/_SB_PCI0XHCIUSPP 9“HP02
+ “SP01
+ }\/_SB_PCI0XHCIUSPP
+\/_SB_PCI0XHCIUSPPPS3X
